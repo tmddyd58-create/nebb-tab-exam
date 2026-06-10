@@ -115,3 +115,55 @@ pm2 save
    # 서버 재시작 (PM2 기준)
    pm2 restart nebb-backend
    ```
+
+---
+
+## 부록: 동일 VM에서 다른 사이트(예: designfab)와 함께 호스팅하기 (Nginx 역방향 프록시)
+
+Oracle VM에서 이미 `designfab` 등의 홈페이지를 운영하고 있더라도, **포트 번호를 다르게 설정**하거나 **Nginx 역방향 프록시(Reverse Proxy)**를 사용하여 하나의 서버에서 두 개 이상의 웹 애플리케이션을 동시에 구동할 수 있습니다.
+
+### 방법 1: 포트 기반 구분 (가장 간단함)
+- 기존 `designfab` 홈페이지: 기본 포트 `80` (HTTP) 또는 `443` (HTTPS) 사용
+- 새 `NEBB TAB CP` 앱: 포트 `3000` 사용
+- 이 경우 포트 충돌이 없으므로 동시에 구동되며, 각각 아래와 같이 다르게 접속할 수 있습니다:
+  - `http://64.110.109.99/` -> designfab 홈페이지 접속
+  - `http://64.110.109.99:3000/` -> NEBB 모의고사 시스템 접속
+
+### 방법 2: Nginx 역방향 프록시 및 도메인 기반 구분 (권장)
+사용 중인 도메인(예: `designfab.com`, `nebb.designfab.com`)이 있는 경우, Nginx를 앞단에 두어 포트 번호(`:3000`) 없이 도메인 이름에 따라 해당 웹앱으로 자동 연결되도록 할 수 있습니다.
+
+`/etc/nginx/conf.d/` 또는 `/etc/nginx/nginx.conf` 파일에 다음과 같이 가상 호스트(Server Block)를 구성합니다:
+
+```nginx
+# 1. designfab 홈페이지 설정
+server {
+    listen 80;
+    server_name designfab.com www.designfab.com;
+
+    location / {
+        root /var/www/designfab; # 기존 designfab 정적 파일 경로 또는 프록시 설정
+        index index.html index.htm;
+    }
+}
+
+# 2. NEBB TAB CP 모의고사 서버 설정
+server {
+    listen 80;
+    server_name nebb.designfab.com; # 서브도메인 지정
+
+    location / {
+        proxy_pass http://localhost:3000; # 내부 3000번 포트의 Node.js 서버로 전달
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+    }
+}
+```
+
+Nginx 설정 변경 후 서버를 재시작합니다:
+```bash
+sudo systemctl restart nginx
+```
+이렇게 설정하면 포트 번호를 붙이지 않고도 `nebb.designfab.com`으로 깔끔하게 접속해 모의고사 데이터 백엔드와 통신할 수 있습니다.
