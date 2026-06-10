@@ -1,0 +1,10 @@
+# Ignore large PDFs and extracted text data
+*.pdf
+*.txt
+*.py
+
+# Ignore local server logs and node modules
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
