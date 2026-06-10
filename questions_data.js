@@ -263,7 +263,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Fan discharge zones have high turbulence and dynamic pressure noise. Sensors placed here cause VFD loop instability (hunting).",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "Management & Procedural Standards",
+    "topic": "Testing and Analysis",
     "id": 19
   },
   {
@@ -711,7 +711,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-51) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 51
   },
   {
@@ -725,7 +725,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-52) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 52
   },
   {
@@ -739,7 +739,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-53) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 53
   },
   {
@@ -753,7 +753,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-54) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 54
   },
   {
@@ -767,7 +767,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-55) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 55
   },
   {
@@ -781,7 +781,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-56) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 56
   },
   {
@@ -795,7 +795,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-57) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 57
   },
   {
@@ -809,7 +809,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-58) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 58
   },
   {
@@ -823,7 +823,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-59) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 59
   },
   {
@@ -837,7 +837,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-60) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 60
   },
   {
@@ -851,7 +851,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-61) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 61
   },
   {
@@ -865,7 +865,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-62) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 62
   },
   {
@@ -879,7 +879,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-63) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 63
   },
   {
@@ -893,7 +893,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-64) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 64
   },
   {
@@ -907,7 +907,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-65) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 65
   },
   {
@@ -921,7 +921,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-66) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 66
   },
   {
@@ -935,7 +935,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-67) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 67
   },
   {
@@ -949,7 +949,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-68) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 68
   },
   {
@@ -963,7 +963,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-69) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 69
   },
   {
@@ -977,7 +977,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-70) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 70
   },
   {
@@ -991,7 +991,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-71) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 71
   },
   {
@@ -1005,7 +1005,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-72) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 72
   },
   {
@@ -1019,7 +1019,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-73) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 73
   },
   {
@@ -1033,7 +1033,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-74) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 74
   },
   {
@@ -1047,7 +1047,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-75) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 75
   },
   {
@@ -1061,7 +1061,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-76) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 76
   },
   {
@@ -1075,7 +1075,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-77) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 77
   },
   {
@@ -1089,7 +1089,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-78) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 78
   },
   {
@@ -1103,7 +1103,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-79) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 79
   },
   {
@@ -1117,7 +1117,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-80) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 80
   },
   {
@@ -1131,7 +1131,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-81) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 81
   },
   {
@@ -1145,7 +1145,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-82) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 82
   },
   {
@@ -1159,7 +1159,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-83) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 83
   },
   {
@@ -1173,7 +1173,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-84) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 84
   },
   {
@@ -1187,7 +1187,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-85) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 85
   },
   {
@@ -1201,7 +1201,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-86) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 86
   },
   {
@@ -1215,7 +1215,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-87) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 87
   },
   {
@@ -1229,7 +1229,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-88) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 88
   },
   {
@@ -1243,7 +1243,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-89) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 89
   },
   {
@@ -1257,7 +1257,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-90) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 90
   },
   {
@@ -1271,7 +1271,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-91) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 91
   },
   {
@@ -1285,7 +1285,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-92) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 92
   },
   {
@@ -1299,7 +1299,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-93) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 93
   },
   {
@@ -1313,7 +1313,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-94) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 94
   },
   {
@@ -1327,7 +1327,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-95) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 95
   },
   {
@@ -1341,7 +1341,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on VAV inlet box (Tag: Fan-96) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 96
   },
   {
@@ -1355,7 +1355,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fume hood exhaust line (Tag: Fan-97) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 97
   },
   {
@@ -1369,7 +1369,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on return air plenum (Tag: Fan-98) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 98
   },
   {
@@ -1383,7 +1383,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on fresh air intake duct (Tag: Fan-99) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 99
   },
   {
@@ -1397,7 +1397,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** LOTO is the only approved administrative safety method to secure the fan motor on main supply duct (Tag: Fan-100) before maintenance.",
     "lang": "en",
     "source": "nebb_weakness_prep_set5.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 100
   },
   {
@@ -1509,7 +1509,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The TAB agent does not perform physical system redesigns or modifications. They diagnose and report deficiencies.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "Management & Procedural Standards",
+    "topic": "Testing and Analysis",
     "id": 108
   },
   {
@@ -2111,7 +2111,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-51 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 151
   },
   {
@@ -2125,7 +2125,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-52 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 152
   },
   {
@@ -2139,7 +2139,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-53 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 153
   },
   {
@@ -2153,7 +2153,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-54 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 154
   },
   {
@@ -2167,7 +2167,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-55 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 155
   },
   {
@@ -2181,7 +2181,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-56 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 156
   },
   {
@@ -2195,7 +2195,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-57 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 157
   },
   {
@@ -2209,7 +2209,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-58 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 158
   },
   {
@@ -2223,7 +2223,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-59 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 159
   },
   {
@@ -2237,7 +2237,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-60 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 160
   },
   {
@@ -2251,7 +2251,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-61 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 161
   },
   {
@@ -2265,7 +2265,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-62 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 162
   },
   {
@@ -2279,7 +2279,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-63 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 163
   },
   {
@@ -2293,7 +2293,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-64 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 164
   },
   {
@@ -2307,7 +2307,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-65 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 165
   },
   {
@@ -2321,7 +2321,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-66 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 166
   },
   {
@@ -2335,7 +2335,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-67 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 167
   },
   {
@@ -2349,7 +2349,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-68 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 168
   },
   {
@@ -2363,7 +2363,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-69 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 169
   },
   {
@@ -2377,7 +2377,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-70 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 170
   },
   {
@@ -2391,7 +2391,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-71 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 171
   },
   {
@@ -2405,7 +2405,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-72 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 172
   },
   {
@@ -2419,7 +2419,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-73 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 173
   },
   {
@@ -2433,7 +2433,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-74 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 174
   },
   {
@@ -2447,7 +2447,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-75 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 175
   },
   {
@@ -2461,7 +2461,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-76 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 176
   },
   {
@@ -2475,7 +2475,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-77 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 177
   },
   {
@@ -2489,7 +2489,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-78 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 178
   },
   {
@@ -2503,7 +2503,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-79 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 179
   },
   {
@@ -2517,7 +2517,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-80 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 180
   },
   {
@@ -2531,7 +2531,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-81 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 181
   },
   {
@@ -2545,7 +2545,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-82 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 182
   },
   {
@@ -2559,7 +2559,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-83 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 183
   },
   {
@@ -2573,7 +2573,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-84 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 184
   },
   {
@@ -2587,7 +2587,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-85 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 185
   },
   {
@@ -2601,7 +2601,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-86 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 186
   },
   {
@@ -2615,7 +2615,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-87 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 187
   },
   {
@@ -2629,7 +2629,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-88 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 188
   },
   {
@@ -2643,7 +2643,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-89 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 189
   },
   {
@@ -2657,7 +2657,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-90 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 190
   },
   {
@@ -2671,7 +2671,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-91 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 191
   },
   {
@@ -2685,7 +2685,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-92 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 192
   },
   {
@@ -2699,7 +2699,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-93 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 193
   },
   {
@@ -2713,7 +2713,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-94 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 194
   },
   {
@@ -2727,7 +2727,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-95 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 195
   },
   {
@@ -2741,7 +2741,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a stuck linkage at branch Duct-96 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 196
   },
   {
@@ -2755,7 +2755,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a backward installation at branch Duct-97 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 197
   },
   {
@@ -2769,7 +2769,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a slipping belt at branch Duct-98 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 198
   },
   {
@@ -2783,7 +2783,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a loose set screw at branch Duct-99 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 199
   },
   {
@@ -2797,7 +2797,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mechanical defects like a clogged filter at branch Duct-100 must be documented in a Deficiency Report to initiate contractor repair.",
     "lang": "en",
     "source": "nebb_weakness_prep_set6.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 200
   },
   {
@@ -2867,7 +2867,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Any deviation from standard design layouts or traverse criteria must be reviewed and approved by the Design Engineer.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "Management & Procedural Standards",
+    "topic": "Testing and Analysis",
     "id": 205
   },
   {
@@ -3077,7 +3077,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** With the bypass closed and VAV boxes shut, static pressure will rise unchecked, forcing the fan into its unstable surge region.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "Management & Procedural Standards",
+    "topic": "Testing and Analysis",
     "id": 220
   },
   {
@@ -3511,7 +3511,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 510 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 251
   },
   {
@@ -3525,7 +3525,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 520 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 252
   },
   {
@@ -3539,7 +3539,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 530 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 253
   },
   {
@@ -3553,7 +3553,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 540 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 254
   },
   {
@@ -3567,7 +3567,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 550 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 255
   },
   {
@@ -3581,7 +3581,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 560 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 256
   },
   {
@@ -3595,7 +3595,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 570 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 257
   },
   {
@@ -3609,7 +3609,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 580 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 258
   },
   {
@@ -3623,7 +3623,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 590 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 259
   },
   {
@@ -3637,7 +3637,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 600 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 260
   },
   {
@@ -3651,7 +3651,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 610 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 261
   },
   {
@@ -3665,7 +3665,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 620 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 262
   },
   {
@@ -3679,7 +3679,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 630 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 263
   },
   {
@@ -3693,7 +3693,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 640 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 264
   },
   {
@@ -3707,7 +3707,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 650 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 265
   },
   {
@@ -3721,7 +3721,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 660 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 266
   },
   {
@@ -3735,7 +3735,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 670 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 267
   },
   {
@@ -3749,7 +3749,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 680 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 268
   },
   {
@@ -3763,7 +3763,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 690 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 269
   },
   {
@@ -3777,7 +3777,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 700 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 270
   },
   {
@@ -3791,7 +3791,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 710 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 271
   },
   {
@@ -3805,7 +3805,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 720 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 272
   },
   {
@@ -3819,7 +3819,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 730 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 273
   },
   {
@@ -3833,7 +3833,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 740 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 274
   },
   {
@@ -3847,7 +3847,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 750 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 275
   },
   {
@@ -3861,7 +3861,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 760 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 276
   },
   {
@@ -3875,7 +3875,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 770 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 277
   },
   {
@@ -3889,7 +3889,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 780 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 278
   },
   {
@@ -3903,7 +3903,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 790 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 279
   },
   {
@@ -3917,7 +3917,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 800 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 280
   },
   {
@@ -3931,7 +3931,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 810 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 281
   },
   {
@@ -3945,7 +3945,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 820 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 282
   },
   {
@@ -3959,7 +3959,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 830 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 283
   },
   {
@@ -3973,7 +3973,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 840 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 284
   },
   {
@@ -3987,7 +3987,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 850 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 285
   },
   {
@@ -4001,7 +4001,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 860 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 286
   },
   {
@@ -4015,7 +4015,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 870 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 287
   },
   {
@@ -4029,7 +4029,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 880 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 288
   },
   {
@@ -4043,7 +4043,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 890 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 289
   },
   {
@@ -4057,7 +4057,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 900 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 290
   },
   {
@@ -4071,7 +4071,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 910 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 291
   },
   {
@@ -4085,7 +4085,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 920 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 292
   },
   {
@@ -4099,7 +4099,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 930 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 293
   },
   {
@@ -4113,7 +4113,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 940 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 294
   },
   {
@@ -4127,7 +4127,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 950 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 295
   },
   {
@@ -4141,7 +4141,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in operating theater Room 960 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 296
   },
   {
@@ -4155,7 +4155,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in cleanroom space Room 970 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 297
   },
   {
@@ -4169,7 +4169,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in toxic lab room Room 980 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 298
   },
   {
@@ -4183,7 +4183,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in battery room Room 990 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 299
   },
   {
@@ -4197,7 +4197,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Negative pressure in isolation ward Room 1000 is maintained by ensuring exhaust volume is greater than supply volume.",
     "lang": "en",
     "source": "nebb_weakness_prep_set7.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 300
   },
   {
@@ -4911,7 +4911,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-153) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 351
   },
   {
@@ -4925,7 +4925,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-156) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 352
   },
   {
@@ -4939,7 +4939,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-159) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 353
   },
   {
@@ -4953,7 +4953,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-162) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 354
   },
   {
@@ -4967,7 +4967,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-165) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 355
   },
   {
@@ -4981,7 +4981,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-168) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 356
   },
   {
@@ -4995,7 +4995,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-171) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 357
   },
   {
@@ -5009,7 +5009,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-174) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 358
   },
   {
@@ -5023,7 +5023,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-177) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 359
   },
   {
@@ -5037,7 +5037,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-180) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 360
   },
   {
@@ -5051,7 +5051,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-183) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 361
   },
   {
@@ -5065,7 +5065,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-186) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 362
   },
   {
@@ -5079,7 +5079,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-189) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 363
   },
   {
@@ -5093,7 +5093,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-192) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 364
   },
   {
@@ -5107,7 +5107,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-195) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 365
   },
   {
@@ -5121,7 +5121,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-198) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 366
   },
   {
@@ -5135,7 +5135,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-201) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 367
   },
   {
@@ -5149,7 +5149,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-204) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 368
   },
   {
@@ -5163,7 +5163,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-207) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 369
   },
   {
@@ -5177,7 +5177,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-210) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 370
   },
   {
@@ -5191,7 +5191,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-213) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 371
   },
   {
@@ -5205,7 +5205,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-216) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 372
   },
   {
@@ -5219,7 +5219,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-219) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 373
   },
   {
@@ -5233,7 +5233,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-222) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 374
   },
   {
@@ -5247,7 +5247,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-225) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 375
   },
   {
@@ -5261,7 +5261,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-228) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 376
   },
   {
@@ -5275,7 +5275,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-231) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 377
   },
   {
@@ -5289,7 +5289,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-234) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 378
   },
   {
@@ -5303,7 +5303,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-237) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 379
   },
   {
@@ -5317,7 +5317,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-240) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 380
   },
   {
@@ -5331,7 +5331,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-243) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 381
   },
   {
@@ -5345,7 +5345,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-246) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 382
   },
   {
@@ -5359,7 +5359,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-249) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 383
   },
   {
@@ -5373,7 +5373,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-252) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 384
   },
   {
@@ -5387,7 +5387,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-255) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 385
   },
   {
@@ -5401,7 +5401,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-258) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 386
   },
   {
@@ -5415,7 +5415,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-261) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 387
   },
   {
@@ -5429,7 +5429,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-264) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 388
   },
   {
@@ -5443,7 +5443,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-267) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 389
   },
   {
@@ -5457,7 +5457,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-270) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 390
   },
   {
@@ -5471,7 +5471,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-273) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 391
   },
   {
@@ -5485,7 +5485,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-276) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 392
   },
   {
@@ -5499,7 +5499,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-279) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 393
   },
   {
@@ -5513,7 +5513,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-282) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 394
   },
   {
@@ -5527,7 +5527,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital thermometer (SN-285) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 395
   },
   {
@@ -5541,7 +5541,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like digital micromanometer (SN-288) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 396
   },
   {
@@ -5555,7 +5555,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like vane anemometer (SN-291) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 397
   },
   {
@@ -5569,7 +5569,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like flow hood (SN-294) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 398
   },
   {
@@ -5583,7 +5583,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like thermal anemometer (SN-297) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 399
   },
   {
@@ -5597,7 +5597,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Regardless of certificate status, an instrument like tachometer (SN-300) showing erratic values must be pulled from service for safety and accuracy.",
     "lang": "en",
     "source": "nebb_weakness_prep_set8.md",
-    "topic": "System Building Relationships",
+    "topic": "Management & Procedural Standards",
     "id": 400
   },
   {
@@ -5779,7 +5779,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** SMACNA standards dictate duct construction, sealing classes, and leakage testing methods.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "Management & Procedural Standards",
+    "topic": "Testing and Analysis",
     "id": 413
   },
   {
@@ -5821,7 +5821,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Positive pressure forces air outward, preventing **infiltration** of dirty corridor air into the sterile surgery space.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Testing and Analysis",
     "id": 416
   },
   {
@@ -5835,7 +5835,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Opening the door removes the physical restriction, causing the static pressure difference to drop to **near zero**. However, the continuous exhaust pulls air in, maintaining **inward airflow direction** (containment).",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 417
   },
   {
@@ -5877,7 +5877,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The discharge of the fan is a region of high turbulence and high velocity pressure. The sensor will capture dynamic pressure noise, causing **control loop hunting**.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Testing and Analysis",
     "id": 420
   },
   {
@@ -5891,7 +5891,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** A **Bypass Relief Damper** bypasses excess air to the return side when system flow demand drops below the fan's minimum aerodynamic stability limit, preventing surging.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Testing and Analysis",
     "id": 421
   },
   {
@@ -5905,7 +5905,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To ensure that the primary and secondary pumps do not dynamically interfere with each other, the decoupler pipe must have **zero pressure drop (frictionless bypass)**.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Hydronic Systems & Components",
     "id": 422
   },
   {
@@ -5947,7 +5947,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Stratification is the layering of cold and warm air streams, which can cause freezing air to strike a heating coil and trip the **freezestat**.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Air Systems & Components",
     "id": 425
   },
   {
@@ -5961,7 +5961,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Low valve authority distorts the valve's control curve, making it act like an **on-off switch** near the closed position, which leads to **loop hunting**.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Testing and Analysis",
     "id": 426
   },
   {
@@ -5975,7 +5975,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** High positive pressure inside the building pushes doors open and causes **whistling air leaks** through door seals.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Fundamental Knowledge",
     "id": 427
   },
   {
@@ -6003,7 +6003,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** When secondary demand exceeds primary supply, warm return water must flow **backward through the decoupler** to balance the secondary pump suction flow, raising the supply water temperature.",
     "lang": "en",
     "source": "nebb_weakness_questions_en.md",
-    "topic": "System Building Relationships",
+    "topic": "Hydronic Systems & Components",
     "id": 429
   },
   {
@@ -6031,7 +6031,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 431
   },
   {
@@ -6045,7 +6045,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 432
   },
   {
@@ -6059,7 +6059,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 433
   },
   {
@@ -6073,7 +6073,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 434
   },
   {
@@ -6087,7 +6087,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 435
   },
   {
@@ -6101,7 +6101,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 436
   },
   {
@@ -6115,7 +6115,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 437
   },
   {
@@ -6129,7 +6129,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 438
   },
   {
@@ -6143,7 +6143,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 439
   },
   {
@@ -6157,7 +6157,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 440
   },
   {
@@ -6171,7 +6171,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 441
   },
   {
@@ -6185,7 +6185,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 442
   },
   {
@@ -6199,7 +6199,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 443
   },
   {
@@ -6213,7 +6213,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 444
   },
   {
@@ -6227,7 +6227,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 445
   },
   {
@@ -6241,7 +6241,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 446
   },
   {
@@ -6255,7 +6255,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 447
   },
   {
@@ -6269,7 +6269,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 448
   },
   {
@@ -6283,7 +6283,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 449
   },
   {
@@ -6297,7 +6297,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 450
   },
   {
@@ -6311,7 +6311,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 451
   },
   {
@@ -6325,7 +6325,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 452
   },
   {
@@ -6339,7 +6339,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 453
   },
   {
@@ -6353,7 +6353,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 454
   },
   {
@@ -6367,7 +6367,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 455
   },
   {
@@ -6381,7 +6381,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 456
   },
   {
@@ -6395,7 +6395,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 457
   },
   {
@@ -6409,7 +6409,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 458
   },
   {
@@ -6423,7 +6423,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 459
   },
   {
@@ -6437,7 +6437,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 460
   },
   {
@@ -6451,7 +6451,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 461
   },
   {
@@ -6465,7 +6465,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 462
   },
   {
@@ -6479,7 +6479,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 463
   },
   {
@@ -6493,7 +6493,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 464
   },
   {
@@ -6507,7 +6507,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 465
   },
   {
@@ -6521,7 +6521,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 466
   },
   {
@@ -6535,7 +6535,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 467
   },
   {
@@ -6549,7 +6549,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 468
   },
   {
@@ -6563,7 +6563,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 469
   },
   {
@@ -6577,7 +6577,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 470
   },
   {
@@ -6591,7 +6591,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 471
   },
   {
@@ -6605,7 +6605,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 472
   },
   {
@@ -6619,7 +6619,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 473
   },
   {
@@ -6633,7 +6633,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 474
   },
   {
@@ -6647,7 +6647,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 475
   },
   {
@@ -6661,7 +6661,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 476
   },
   {
@@ -6675,7 +6675,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 477
   },
   {
@@ -6689,7 +6689,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 478
   },
   {
@@ -6703,7 +6703,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 479
   },
   {
@@ -6717,7 +6717,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 480
   },
   {
@@ -6731,7 +6731,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 481
   },
   {
@@ -6745,7 +6745,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 482
   },
   {
@@ -6759,7 +6759,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 483
   },
   {
@@ -6773,7 +6773,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 484
   },
   {
@@ -6787,7 +6787,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 485
   },
   {
@@ -6801,7 +6801,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 486
   },
   {
@@ -6815,7 +6815,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 487
   },
   {
@@ -6829,7 +6829,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 488
   },
   {
@@ -6843,7 +6843,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 489
   },
   {
@@ -6857,7 +6857,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 490
   },
   {
@@ -6871,7 +6871,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 491
   },
   {
@@ -6885,7 +6885,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 492
   },
   {
@@ -6899,7 +6899,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 493
   },
   {
@@ -6913,7 +6913,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 494
   },
   {
@@ -6927,7 +6927,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 495
   },
   {
@@ -6941,7 +6941,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 496
   },
   {
@@ -6955,7 +6955,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 497
   },
   {
@@ -6969,7 +6969,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 498
   },
   {
@@ -6983,7 +6983,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 499
   },
   {
@@ -6997,7 +6997,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 500
   },
   {
@@ -7011,7 +7011,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 501
   },
   {
@@ -7025,7 +7025,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 502
   },
   {
@@ -7039,7 +7039,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 503
   },
   {
@@ -7053,7 +7053,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 504
   },
   {
@@ -7067,7 +7067,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 505
   },
   {
@@ -7081,7 +7081,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 506
   },
   {
@@ -7095,7 +7095,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 507
   },
   {
@@ -7109,7 +7109,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 508
   },
   {
@@ -7123,7 +7123,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 509
   },
   {
@@ -7137,7 +7137,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 510
   },
   {
@@ -7151,7 +7151,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 511
   },
   {
@@ -7165,7 +7165,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 512
   },
   {
@@ -7179,7 +7179,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 513
   },
   {
@@ -7193,7 +7193,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 514
   },
   {
@@ -7207,7 +7207,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 515
   },
   {
@@ -7221,7 +7221,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 516
   },
   {
@@ -7235,7 +7235,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 517
   },
   {
@@ -7249,7 +7249,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 518
   },
   {
@@ -7263,7 +7263,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 519
   },
   {
@@ -7277,7 +7277,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 520
   },
   {
@@ -7291,7 +7291,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 521
   },
   {
@@ -7305,7 +7305,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 522
   },
   {
@@ -7319,7 +7319,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 523
   },
   {
@@ -7333,7 +7333,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 524
   },
   {
@@ -7347,7 +7347,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 525
   },
   {
@@ -7361,7 +7361,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 526
   },
   {
@@ -7375,7 +7375,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 527
   },
   {
@@ -7389,7 +7389,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 528
   },
   {
@@ -7403,7 +7403,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 529
   },
   {
@@ -7417,7 +7417,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 530
   },
   {
@@ -7431,7 +7431,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 531
   },
   {
@@ -7445,7 +7445,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 532
   },
   {
@@ -7459,7 +7459,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 533
   },
   {
@@ -7473,7 +7473,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 534
   },
   {
@@ -7487,7 +7487,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 535
   },
   {
@@ -7501,7 +7501,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 536
   },
   {
@@ -7515,7 +7515,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 537
   },
   {
@@ -7529,7 +7529,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 538
   },
   {
@@ -7543,7 +7543,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 539
   },
   {
@@ -7557,7 +7557,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 540
   },
   {
@@ -7571,7 +7571,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 541
   },
   {
@@ -7585,7 +7585,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 542
   },
   {
@@ -7599,7 +7599,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 543
   },
   {
@@ -7613,7 +7613,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 544
   },
   {
@@ -7627,7 +7627,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 545
   },
   {
@@ -7641,7 +7641,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 546
   },
   {
@@ -7655,7 +7655,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 547
   },
   {
@@ -7669,7 +7669,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 548
   },
   {
@@ -7683,7 +7683,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 549
   },
   {
@@ -7697,7 +7697,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 550
   },
   {
@@ -7711,7 +7711,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 551
   },
   {
@@ -7725,7 +7725,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 552
   },
   {
@@ -7739,7 +7739,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 553
   },
   {
@@ -7753,7 +7753,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 554
   },
   {
@@ -7767,7 +7767,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 555
   },
   {
@@ -7781,7 +7781,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 556
   },
   {
@@ -7795,7 +7795,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 557
   },
   {
@@ -7809,7 +7809,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 558
   },
   {
@@ -7823,7 +7823,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 559
   },
   {
@@ -7837,7 +7837,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 560
   },
   {
@@ -7851,7 +7851,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 561
   },
   {
@@ -7865,7 +7865,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 562
   },
   {
@@ -7879,7 +7879,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 563
   },
   {
@@ -7893,7 +7893,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 564
   },
   {
@@ -7907,7 +7907,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 565
   },
   {
@@ -7921,7 +7921,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 566
   },
   {
@@ -7935,7 +7935,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 567
   },
   {
@@ -7949,7 +7949,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 568
   },
   {
@@ -7963,7 +7963,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 569
   },
   {
@@ -7977,7 +7977,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 570
   },
   {
@@ -7991,7 +7991,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 571
   },
   {
@@ -8005,7 +8005,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 572
   },
   {
@@ -8019,7 +8019,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 573
   },
   {
@@ -8033,7 +8033,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 574
   },
   {
@@ -8047,7 +8047,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 575
   },
   {
@@ -8061,7 +8061,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 576
   },
   {
@@ -8075,7 +8075,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 577
   },
   {
@@ -8089,7 +8089,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 578
   },
   {
@@ -8103,7 +8103,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 579
   },
   {
@@ -8117,7 +8117,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 580
   },
   {
@@ -8131,7 +8131,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 581
   },
   {
@@ -8145,7 +8145,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 582
   },
   {
@@ -8159,7 +8159,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 583
   },
   {
@@ -8173,7 +8173,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 584
   },
   {
@@ -8187,7 +8187,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 585
   },
   {
@@ -8201,7 +8201,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 586
   },
   {
@@ -8215,7 +8215,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 587
   },
   {
@@ -8229,7 +8229,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 588
   },
   {
@@ -8243,7 +8243,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 589
   },
   {
@@ -8257,7 +8257,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 590
   },
   {
@@ -8271,7 +8271,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 591
   },
   {
@@ -8285,7 +8285,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 592
   },
   {
@@ -8299,7 +8299,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 593
   },
   {
@@ -8313,7 +8313,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 594
   },
   {
@@ -8327,7 +8327,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 595
   },
   {
@@ -8341,7 +8341,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 596
   },
   {
@@ -8355,7 +8355,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 597
   },
   {
@@ -8369,7 +8369,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 598
   },
   {
@@ -8383,7 +8383,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 599
   },
   {
@@ -8397,7 +8397,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 600
   },
   {
@@ -8411,7 +8411,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 601
   },
   {
@@ -8425,7 +8425,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 602
   },
   {
@@ -8439,7 +8439,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 603
   },
   {
@@ -8453,7 +8453,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 604
   },
   {
@@ -8467,7 +8467,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 605
   },
   {
@@ -8481,7 +8481,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 606
   },
   {
@@ -8495,7 +8495,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 607
   },
   {
@@ -8509,7 +8509,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 608
   },
   {
@@ -8523,7 +8523,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 609
   },
   {
@@ -8537,7 +8537,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** UFAD systems use the floor cavity as a pressurized plenum, operating at very low static pressure (0.05 to 0.10 in. w.g.) to prevent drafts.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set2_3choices.md",
-    "topic": "",
+    "topic": "Air Systems & Components",
     "id": 610
   },
   {
@@ -8551,7 +8551,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 611
   },
   {
@@ -8565,7 +8565,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (201 * 61) / 3960 = 3.10 HP. BHP = WHP / efficiency = 3.10 / 0.75 = 4.13 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 612
   },
   {
@@ -8579,7 +8579,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 613
   },
   {
@@ -8593,7 +8593,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 614
   },
   {
@@ -8607,7 +8607,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 615
   },
   {
@@ -8621,7 +8621,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (205 * 65) / 3960 = 3.36 HP. BHP = WHP / efficiency = 3.36 / 0.75 = 4.49 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 616
   },
   {
@@ -8635,7 +8635,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 617
   },
   {
@@ -8649,7 +8649,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 618
   },
   {
@@ -8663,7 +8663,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 619
   },
   {
@@ -8677,7 +8677,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (209 * 69) / 3960 = 3.64 HP. BHP = WHP / efficiency = 3.64 / 0.75 = 4.86 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 620
   },
   {
@@ -8691,7 +8691,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 621
   },
   {
@@ -8705,7 +8705,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 622
   },
   {
@@ -8719,7 +8719,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 623
   },
   {
@@ -8733,7 +8733,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (213 * 63) / 3960 = 3.39 HP. BHP = WHP / efficiency = 3.39 / 0.75 = 4.52 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 624
   },
   {
@@ -8747,7 +8747,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 625
   },
   {
@@ -8761,7 +8761,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 626
   },
   {
@@ -8775,7 +8775,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 627
   },
   {
@@ -8789,7 +8789,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (217 * 67) / 3960 = 3.67 HP. BHP = WHP / efficiency = 3.67 / 0.75 = 4.90 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 628
   },
   {
@@ -8803,7 +8803,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 629
   },
   {
@@ -8817,7 +8817,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 630
   },
   {
@@ -8831,7 +8831,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 631
   },
   {
@@ -8845,7 +8845,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (221 * 61) / 3960 = 3.40 HP. BHP = WHP / efficiency = 3.40 / 0.75 = 4.54 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 632
   },
   {
@@ -8859,7 +8859,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 633
   },
   {
@@ -8873,7 +8873,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 634
   },
   {
@@ -8887,7 +8887,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 635
   },
   {
@@ -8901,7 +8901,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (225 * 65) / 3960 = 3.69 HP. BHP = WHP / efficiency = 3.69 / 0.75 = 4.92 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 636
   },
   {
@@ -8915,7 +8915,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 637
   },
   {
@@ -8929,7 +8929,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 638
   },
   {
@@ -8943,7 +8943,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 639
   },
   {
@@ -8957,7 +8957,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (229 * 69) / 3960 = 3.99 HP. BHP = WHP / efficiency = 3.99 / 0.75 = 5.32 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 640
   },
   {
@@ -8971,7 +8971,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 641
   },
   {
@@ -8985,7 +8985,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 642
   },
   {
@@ -8999,7 +8999,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 643
   },
   {
@@ -9013,7 +9013,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (233 * 63) / 3960 = 3.71 HP. BHP = WHP / efficiency = 3.71 / 0.75 = 4.94 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 644
   },
   {
@@ -9027,7 +9027,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 645
   },
   {
@@ -9041,7 +9041,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 646
   },
   {
@@ -9055,7 +9055,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 647
   },
   {
@@ -9069,7 +9069,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (237 * 67) / 3960 = 4.01 HP. BHP = WHP / efficiency = 4.01 / 0.75 = 5.35 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 648
   },
   {
@@ -9083,7 +9083,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 649
   },
   {
@@ -9097,7 +9097,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 650
   },
   {
@@ -9111,7 +9111,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 651
   },
   {
@@ -9125,7 +9125,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (241 * 61) / 3960 = 3.71 HP. BHP = WHP / efficiency = 3.71 / 0.75 = 4.95 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 652
   },
   {
@@ -9139,7 +9139,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 653
   },
   {
@@ -9153,7 +9153,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 654
   },
   {
@@ -9167,7 +9167,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 655
   },
   {
@@ -9181,7 +9181,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (245 * 65) / 3960 = 4.02 HP. BHP = WHP / efficiency = 4.02 / 0.75 = 5.36 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 656
   },
   {
@@ -9195,7 +9195,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 657
   },
   {
@@ -9209,7 +9209,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 658
   },
   {
@@ -9223,7 +9223,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 659
   },
   {
@@ -9237,7 +9237,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (249 * 69) / 3960 = 4.34 HP. BHP = WHP / efficiency = 4.34 / 0.75 = 5.78 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 660
   },
   {
@@ -9251,7 +9251,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 661
   },
   {
@@ -9265,7 +9265,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 662
   },
   {
@@ -9279,7 +9279,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 663
   },
   {
@@ -9293,7 +9293,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (253 * 63) / 3960 = 4.03 HP. BHP = WHP / efficiency = 4.03 / 0.75 = 5.37 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 664
   },
   {
@@ -9307,7 +9307,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 665
   },
   {
@@ -9321,7 +9321,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 666
   },
   {
@@ -9335,7 +9335,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 667
   },
   {
@@ -9349,7 +9349,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (257 * 67) / 3960 = 4.35 HP. BHP = WHP / efficiency = 4.35 / 0.75 = 5.80 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 668
   },
   {
@@ -9363,7 +9363,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 669
   },
   {
@@ -9377,7 +9377,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 670
   },
   {
@@ -9391,7 +9391,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 671
   },
   {
@@ -9405,7 +9405,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (261 * 61) / 3960 = 4.02 HP. BHP = WHP / efficiency = 4.02 / 0.75 = 5.36 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 672
   },
   {
@@ -9419,7 +9419,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 673
   },
   {
@@ -9433,7 +9433,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 674
   },
   {
@@ -9447,7 +9447,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (265 * 65) / 3960 = 4.35 HP. BHP = WHP / efficiency = 4.35 / 0.75 = 5.80 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 675
   },
   {
@@ -9461,7 +9461,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 676
   },
   {
@@ -9475,7 +9475,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 677
   },
   {
@@ -9489,7 +9489,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (269 * 69) / 3960 = 4.69 HP. BHP = WHP / efficiency = 4.69 / 0.75 = 6.25 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 678
   },
   {
@@ -9503,7 +9503,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 679
   },
   {
@@ -9517,7 +9517,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 680
   },
   {
@@ -9531,7 +9531,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (273 * 63) / 3960 = 4.34 HP. BHP = WHP / efficiency = 4.34 / 0.75 = 5.79 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 681
   },
   {
@@ -9545,7 +9545,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 682
   },
   {
@@ -9559,7 +9559,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 683
   },
   {
@@ -9573,7 +9573,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (277 * 67) / 3960 = 4.69 HP. BHP = WHP / efficiency = 4.69 / 0.75 = 6.25 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 684
   },
   {
@@ -9587,7 +9587,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 685
   },
   {
@@ -9601,7 +9601,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 686
   },
   {
@@ -9615,7 +9615,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (281 * 61) / 3960 = 4.33 HP. BHP = WHP / efficiency = 4.33 / 0.75 = 5.77 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 687
   },
   {
@@ -9629,7 +9629,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 688
   },
   {
@@ -9643,7 +9643,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 689
   },
   {
@@ -9657,7 +9657,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (285 * 65) / 3960 = 4.68 HP. BHP = WHP / efficiency = 4.68 / 0.75 = 6.24 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 690
   },
   {
@@ -9671,7 +9671,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 691
   },
   {
@@ -9685,7 +9685,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 692
   },
   {
@@ -9699,7 +9699,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (289 * 69) / 3960 = 5.04 HP. BHP = WHP / efficiency = 5.04 / 0.75 = 6.71 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 693
   },
   {
@@ -9713,7 +9713,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 694
   },
   {
@@ -9727,7 +9727,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 695
   },
   {
@@ -9741,7 +9741,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (293 * 63) / 3960 = 4.66 HP. BHP = WHP / efficiency = 4.66 / 0.75 = 6.22 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 696
   },
   {
@@ -9755,7 +9755,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 697
   },
   {
@@ -9769,7 +9769,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Fundamental Knowledge",
     "id": 698
   },
   {
@@ -9783,7 +9783,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** WHP = (GPM * H) / 3960 = (297 * 67) / 3960 = 5.03 HP. BHP = WHP / efficiency = 5.03 / 0.75 = 6.70 BHP.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 699
   },
   {
@@ -9797,7 +9797,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set3_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 700
   },
   {
@@ -9811,7 +9811,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Air stratification creates cold air pockets (e.g., 20 F) that freeze localized coil tubes, tripping the freezestat even when the average temperature is safe.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set4_3choices.md",
-    "topic": "",
+    "topic": "Testing and Analysis",
     "id": 701
   },
   {
@@ -9825,7 +9825,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** If terminal boxes close and the VFD is at minimum speed, static pressure spikes. A closed bypass relief damper forces the fan into its unstable surging region.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set4_3choices.md",
-    "topic": "",
+    "topic": "System Building Relationships",
     "id": 702
   },
   {
@@ -9839,7 +9839,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** When secondary GPM is greater than primary GPM, the deficit is filled by secondary return water bypassing backward through the decoupler, raising supply water temperature.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set4_3choices.md",
-    "topic": "",
+    "topic": "Hydronic Systems & Components",
     "id": 703
   },
   {
@@ -9853,7 +9853,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Oversized valves have low valve authority. They cannot modulate flow linearly, causing excessive flow at low openings, which leads to loop hunting.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set4_3choices.md",
-    "topic": "",
+    "topic": "Testing and Analysis",
     "id": 704
   },
   {
@@ -9867,7 +9867,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** TAB agents only diagnose and report. The physical repair of mechanical system components is the responsibility of the Mechanical Contractor.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set5.md",
-    "topic": "",
+    "topic": "Testing and Analysis",
     "id": 705
   },
   {
@@ -9881,7 +9881,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The calibration log must list manufacturer, model, serial number, and calibration date to prove the instruments were within the 12-month limit.",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set5.md",
-    "topic": "",
+    "topic": "Management & Procedural Standards",
     "id": 706
   },
   {
@@ -9895,7 +9895,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Firms must employ at least one full-time CP. Loss of the sole CP requires immediate notification and replacement within the grace period (usually 30 days).",
     "lang": "en",
     "source": "tab_cp_exam_prep_100_set5.md",
-    "topic": "",
+    "topic": "Management & Procedural Standards",
     "id": 707
   },
   {
@@ -9909,7 +9909,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 708
   },
   {
@@ -9923,7 +9923,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 709
   },
   {
@@ -9937,7 +9937,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 710
   },
   {
@@ -9951,7 +9951,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 711
   },
   {
@@ -9965,7 +9965,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 712
   },
   {
@@ -9979,7 +9979,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 713
   },
   {
@@ -9993,7 +9993,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 714
   },
   {
@@ -10007,7 +10007,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 715
   },
   {
@@ -10021,7 +10021,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 716
   },
   {
@@ -10035,7 +10035,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for each phase:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "System Building Relationships",
     "id": 717
   },
   {
@@ -10049,7 +10049,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 718
   },
   {
@@ -10063,7 +10063,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 719
   },
   {
@@ -10077,7 +10077,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 720
   },
   {
@@ -10091,7 +10091,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 721
   },
   {
@@ -10105,7 +10105,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 722
   },
   {
@@ -10119,7 +10119,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 723
   },
   {
@@ -10133,7 +10133,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 724
   },
   {
@@ -10147,7 +10147,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 725
   },
   {
@@ -10161,7 +10161,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 726
   },
   {
@@ -10175,7 +10175,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required in U.S. units:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 727
   },
   {
@@ -10189,7 +10189,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for evaporation:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 728
   },
   {
@@ -10203,7 +10203,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for evaporation:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 729
   },
   {
@@ -10217,7 +10217,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for evaporation:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 730
   },
   {
@@ -10231,7 +10231,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for evaporation:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 731
   },
   {
@@ -10245,7 +10245,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the heat required for evaporation:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 732
   },
   {
@@ -10259,7 +10259,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 15 \\text{ lb} \\times 0.48 \\times 37 = 266.4 \\text{ Btu}$. To melt it requires: $Q_2 = 15 \\text{ lb} \\times 144 = 2160.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 2426 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 733
   },
   {
@@ -10273,7 +10273,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 17 \\text{ lb} \\times 0.48 \\times 38 = 310.1 \\text{ Btu}$. To melt it requires: $Q_2 = 17 \\text{ lb} \\times 144 = 2448.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 2758 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 734
   },
   {
@@ -10287,7 +10287,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 19 \\text{ lb} \\times 0.48 \\times 39 = 355.7 \\text{ Btu}$. To melt it requires: $Q_2 = 19 \\text{ lb} \\times 144 = 2736.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 3092 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 735
   },
   {
@@ -10301,7 +10301,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 21 \\text{ lb} \\times 0.48 \\times 40 = 403.2 \\text{ Btu}$. To melt it requires: $Q_2 = 21 \\text{ lb} \\times 144 = 3024.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 3427 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 736
   },
   {
@@ -10315,7 +10315,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 23 \\text{ lb} \\times 0.48 \\times 41 = 452.6 \\text{ Btu}$. To melt it requires: $Q_2 = 23 \\text{ lb} \\times 144 = 3312.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 3765 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 737
   },
   {
@@ -10329,7 +10329,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 25 \\text{ lb} \\times 0.48 \\times 42 = 504.0 \\text{ Btu}$. To melt it requires: $Q_2 = 25 \\text{ lb} \\times 144 = 3600.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 4104 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 738
   },
   {
@@ -10343,7 +10343,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 27 \\text{ lb} \\times 0.48 \\times 43 = 557.3 \\text{ Btu}$. To melt it requires: $Q_2 = 27 \\text{ lb} \\times 144 = 3888.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 4445 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 739
   },
   {
@@ -10357,7 +10357,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 29 \\text{ lb} \\times 0.48 \\times 44 = 612.5 \\text{ Btu}$. To melt it requires: $Q_2 = 29 \\text{ lb} \\times 144 = 4176.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 4788 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 740
   },
   {
@@ -10371,7 +10371,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 31 \\text{ lb} \\times 0.48 \\times 45 = 669.6 \\text{ Btu}$. To melt it requires: $Q_2 = 31 \\text{ lb} \\times 144 = 4464.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 5134 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 741
   },
   {
@@ -10385,7 +10385,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 33 \\text{ lb} \\times 0.48 \\times 46 = 728.6 \\text{ Btu}$. To melt it requires: $Q_2 = 33 \\text{ lb} \\times 144 = 4752.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 5481 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 742
   },
   {
@@ -10399,7 +10399,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 35 \\text{ lb} \\times 0.48 \\times 47 = 789.6 \\text{ Btu}$. To melt it requires: $Q_2 = 35 \\text{ lb} \\times 144 = 5040.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 5830 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 743
   },
   {
@@ -10413,7 +10413,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 37 \\text{ lb} \\times 0.48 \\times 48 = 852.5 \\text{ Btu}$. To melt it requires: $Q_2 = 37 \\text{ lb} \\times 144 = 5328.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 6180 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 744
   },
   {
@@ -10427,7 +10427,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 39 \\text{ lb} \\times 0.48 \\times 49 = 917.3 \\text{ Btu}$. To melt it requires: $Q_2 = 39 \\text{ lb} \\times 144 = 5616.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 6533 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 745
   },
   {
@@ -10441,7 +10441,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 41 \\text{ lb} \\times 0.48 \\times 50 = 984.0 \\text{ Btu}$. To melt it requires: $Q_2 = 41 \\text{ lb} \\times 144 = 5904.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 6888 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 746
   },
   {
@@ -10455,7 +10455,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 43 \\text{ lb} \\times 0.48 \\times 51 = 1052.6 \\text{ Btu}$. To melt it requires: $Q_2 = 43 \\text{ lb} \\times 144 = 6192.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 7245 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 747
   },
   {
@@ -10469,7 +10469,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 45 \\text{ lb} \\times 0.48 \\times 52 = 1123.2 \\text{ Btu}$. To melt it requires: $Q_2 = 45 \\text{ lb} \\times 144 = 6480.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 7603 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 748
   },
   {
@@ -10483,7 +10483,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 47 \\text{ lb} \\times 0.48 \\times 53 = 1195.7 \\text{ Btu}$. To melt it requires: $Q_2 = 47 \\text{ lb} \\times 144 = 6768.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 7964 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 749
   },
   {
@@ -10497,7 +10497,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 49 \\text{ lb} \\times 0.48 \\times 54 = 1270.1 \\text{ Btu}$. To melt it requires: $Q_2 = 49 \\text{ lb} \\times 144 = 7056.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 8326 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 750
   },
   {
@@ -10511,7 +10511,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 51 \\text{ lb} \\times 0.48 \\times 55 = 1346.4 \\text{ Btu}$. To melt it requires: $Q_2 = 51 \\text{ lb} \\times 144 = 7344.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 8690 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 751
   },
   {
@@ -10525,7 +10525,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 53 \\text{ lb} \\times 0.48 \\times 56 = 1424.6 \\text{ Btu}$. To melt it requires: $Q_2 = 53 \\text{ lb} \\times 144 = 7632.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 9057 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 752
   },
   {
@@ -10539,7 +10539,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 55 \\text{ lb} \\times 0.48 \\times 57 = 1504.8 \\text{ Btu}$. To melt it requires: $Q_2 = 55 \\text{ lb} \\times 144 = 7920.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 9425 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 753
   },
   {
@@ -10553,7 +10553,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 57 \\text{ lb} \\times 0.48 \\times 58 = 1586.9 \\text{ Btu}$. To melt it requires: $Q_2 = 57 \\text{ lb} \\times 144 = 8208.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 9795 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 754
   },
   {
@@ -10567,7 +10567,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 59 \\text{ lb} \\times 0.48 \\times 59 = 1670.9 \\text{ Btu}$. To melt it requires: $Q_2 = 59 \\text{ lb} \\times 144 = 8496.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 10167 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 755
   },
   {
@@ -10581,7 +10581,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 61 \\text{ lb} \\times 0.48 \\times 60 = 1756.8 \\text{ Btu}$. To melt it requires: $Q_2 = 61 \\text{ lb} \\times 144 = 8784.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 10541 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 756
   },
   {
@@ -10595,7 +10595,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 63 \\text{ lb} \\times 0.48 \\times 61 = 1844.6 \\text{ Btu}$. To melt it requires: $Q_2 = 63 \\text{ lb} \\times 144 = 9072.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 10917 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 757
   },
   {
@@ -10609,7 +10609,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 65 \\text{ lb} \\times 0.48 \\times 62 = 1934.4 \\text{ Btu}$. To melt it requires: $Q_2 = 65 \\text{ lb} \\times 144 = 9360.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 11294 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 758
   },
   {
@@ -10623,7 +10623,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 67 \\text{ lb} \\times 0.48 \\times 63 = 2026.1 \\text{ Btu}$. To melt it requires: $Q_2 = 67 \\text{ lb} \\times 144 = 9648.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 11674 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 759
   },
   {
@@ -10637,7 +10637,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 69 \\text{ lb} \\times 0.48 \\times 64 = 2119.7 \\text{ Btu}$. To melt it requires: $Q_2 = 69 \\text{ lb} \\times 144 = 9936.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 12056 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 760
   },
   {
@@ -10651,7 +10651,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 71 \\text{ lb} \\times 0.48 \\times 65 = 2215.2 \\text{ Btu}$. To melt it requires: $Q_2 = 71 \\text{ lb} \\times 144 = 10224.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 12439 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 761
   },
   {
@@ -10665,7 +10665,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 73 \\text{ lb} \\times 0.48 \\times 66 = 2312.6 \\text{ Btu}$. To melt it requires: $Q_2 = 73 \\text{ lb} \\times 144 = 10512.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 12825 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 762
   },
   {
@@ -10679,7 +10679,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 75 \\text{ lb} \\times 0.48 \\times 67 = 2412.0 \\text{ Btu}$. To melt it requires: $Q_2 = 75 \\text{ lb} \\times 144 = 10800.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 13212 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 763
   },
   {
@@ -10693,7 +10693,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 77 \\text{ lb} \\times 0.48 \\times 68 = 2513.3 \\text{ Btu}$. To melt it requires: $Q_2 = 77 \\text{ lb} \\times 144 = 11088.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 13601 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 764
   },
   {
@@ -10707,7 +10707,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 79 \\text{ lb} \\times 0.48 \\times 69 = 2616.5 \\text{ Btu}$. To melt it requires: $Q_2 = 79 \\text{ lb} \\times 144 = 11376.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 13992 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 765
   },
   {
@@ -10721,7 +10721,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 81 \\text{ lb} \\times 0.48 \\times 70 = 2721.6 \\text{ Btu}$. To melt it requires: $Q_2 = 81 \\text{ lb} \\times 144 = 11664.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 14386 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 766
   },
   {
@@ -10735,7 +10735,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 83 \\text{ lb} \\times 0.48 \\times 71 = 2828.6 \\text{ Btu}$. To melt it requires: $Q_2 = 83 \\text{ lb} \\times 144 = 11952.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 14781 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 767
   },
   {
@@ -10749,7 +10749,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 85 \\text{ lb} \\times 0.48 \\times 72 = 2937.6 \\text{ Btu}$. To melt it requires: $Q_2 = 85 \\text{ lb} \\times 144 = 12240.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 15178 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 768
   },
   {
@@ -10763,7 +10763,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 87 \\text{ lb} \\times 0.48 \\times 73 = 3048.5 \\text{ Btu}$. To melt it requires: $Q_2 = 87 \\text{ lb} \\times 144 = 12528.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 15576 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 769
   },
   {
@@ -10777,7 +10777,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 89 \\text{ lb} \\times 0.48 \\times 74 = 3161.3 \\text{ Btu}$. To melt it requires: $Q_2 = 89 \\text{ lb} \\times 144 = 12816.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 15977 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 770
   },
   {
@@ -10791,7 +10791,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 91 \\text{ lb} \\times 0.48 \\times 75 = 3276.0 \\text{ Btu}$. To melt it requires: $Q_2 = 91 \\text{ lb} \\times 144 = 13104.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 16380 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 771
   },
   {
@@ -10805,7 +10805,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 93 \\text{ lb} \\times 0.48 \\times 76 = 3392.6 \\text{ Btu}$. To melt it requires: $Q_2 = 93 \\text{ lb} \\times 144 = 13392.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 16785 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 772
   },
   {
@@ -10819,7 +10819,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 95 \\text{ lb} \\times 0.48 \\times 77 = 3511.2 \\text{ Btu}$. To melt it requires: $Q_2 = 95 \\text{ lb} \\times 144 = 13680.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 17191 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 773
   },
   {
@@ -10833,7 +10833,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 97 \\text{ lb} \\times 0.48 \\times 78 = 3631.7 \\text{ Btu}$. To melt it requires: $Q_2 = 97 \\text{ lb} \\times 144 = 13968.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 17600 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 774
   },
   {
@@ -10847,7 +10847,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 99 \\text{ lb} \\times 0.48 \\times 79 = 3754.1 \\text{ Btu}$. To melt it requires: $Q_2 = 99 \\text{ lb} \\times 144 = 14256.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 18010 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 775
   },
   {
@@ -10861,7 +10861,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 101 \\text{ lb} \\times 0.48 \\times 80 = 3878.4 \\text{ Btu}$. To melt it requires: $Q_2 = 101 \\text{ lb} \\times 144 = 14544.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 18422 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 776
   },
   {
@@ -10875,7 +10875,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To warm the ice to 32 F requires: $Q_1 = 103 \\text{ lb} \\times 0.48 \\times 81 = 4004.6 \\text{ Btu}$. To melt it requires: $Q_2 = 103 \\text{ lb} \\times 144 = 14832.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 18837 \\text{ Btu}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Psychrometrics & Ice Thermodynamics",
+    "topic": "Fundamental Knowledge",
     "id": 777
   },
   {
@@ -10889,7 +10889,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 1,000 \\times (80 - 55) = 27,000 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 778
   },
   {
@@ -10903,7 +10903,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 1,100 \\times (0.0130 - 0.0085) = 23,958 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 779
   },
   {
@@ -10917,7 +10917,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 780
   },
   {
@@ -10931,7 +10931,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{34,606}{1061} = 32.62 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.065 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 781
   },
   {
@@ -10945,7 +10945,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 1,400 \\times (84 - 56) = 42,336 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 782
   },
   {
@@ -10959,7 +10959,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 1,500 \\times (0.0170 - 0.0080) = 65,340 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 783
   },
   {
@@ -10973,7 +10973,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 784
   },
   {
@@ -10987,7 +10987,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{82,280}{1061} = 77.55 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.155 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 785
   },
   {
@@ -11001,7 +11001,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 1,800 \\times (83 - 57) = 50,544 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 786
   },
   {
@@ -11015,7 +11015,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 1,900 \\times (0.0210 - 0.0100) = 101,156 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 787
   },
   {
@@ -11029,7 +11029,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 788
   },
   {
@@ -11043,7 +11043,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{45,738}{1061} = 43.11 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.086 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 789
   },
   {
@@ -11057,7 +11057,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 2,200 \\times (82 - 55) = 64,152 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 790
   },
   {
@@ -11071,7 +11071,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 2,300 \\times (0.0150 - 0.0095) = 61,226 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 791
   },
   {
@@ -11085,7 +11085,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 792
   },
   {
@@ -11099,7 +11099,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{108,900}{1061} = 102.64 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.205 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 793
   },
   {
@@ -11113,7 +11113,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 2,600 \\times (81 - 56) = 70,200 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 794
   },
   {
@@ -11127,7 +11127,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 2,700 \\times (0.0190 - 0.0090) = 130,680 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 795
   },
   {
@@ -11141,7 +11141,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 796
   },
   {
@@ -11155,7 +11155,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{154,396}{1061} = 145.52 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.291 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 797
   },
   {
@@ -11169,7 +11169,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 3,000 \\times (80 - 57) = 74,520 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 798
   },
   {
@@ -11183,7 +11183,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 3,100 \\times (0.0130 - 0.0085) = 67,518 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 799
   },
   {
@@ -11197,7 +11197,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 800
   },
   {
@@ -11211,7 +11211,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{87,846}{1061} = 82.80 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.166 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 801
   },
   {
@@ -11225,7 +11225,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 3,400 \\times (84 - 55) = 106,488 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 802
   },
   {
@@ -11239,7 +11239,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 3,500 \\times (0.0170 - 0.0080) = 152,460 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 803
   },
   {
@@ -11253,7 +11253,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 804
   },
   {
@@ -11267,7 +11267,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{179,080}{1061} = 168.78 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.338 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 805
   },
   {
@@ -11281,7 +11281,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 3,800 \\times (83 - 56) = 110,808 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 806
   },
   {
@@ -11295,7 +11295,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 3,900 \\times (0.0210 - 0.0100) = 207,636 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 807
   },
   {
@@ -11309,7 +11309,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 808
   },
   {
@@ -11323,7 +11323,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{89,298}{1061} = 84.16 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.168 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 809
   },
   {
@@ -11337,7 +11337,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 4,200 \\times (82 - 57) = 113,400 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 810
   },
   {
@@ -11351,7 +11351,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 4,300 \\times (0.0150 - 0.0095) = 114,466 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 811
   },
   {
@@ -11365,7 +11365,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 812
   },
   {
@@ -11379,7 +11379,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{196,020}{1061} = 184.75 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.370 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 813
   },
   {
@@ -11393,7 +11393,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 4,600 \\times (81 - 55) = 129,168 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 814
   },
   {
@@ -11407,7 +11407,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 4,700 \\times (0.0190 - 0.0090) = 227,480 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 815
   },
   {
@@ -11421,7 +11421,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 816
   },
   {
@@ -11435,7 +11435,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{260,876}{1061} = 245.88 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.492 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 817
   },
   {
@@ -11449,7 +11449,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 5,000 \\times (80 - 56) = 129,600 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 818
   },
   {
@@ -11463,7 +11463,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 5,100 \\times (0.0130 - 0.0085) = 111,078 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 819
   },
   {
@@ -11477,7 +11477,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 820
   },
   {
@@ -11491,7 +11491,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{141,086}{1061} = 132.97 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.266 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 821
   },
   {
@@ -11505,7 +11505,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 5,400 \\times (84 - 57) = 157,464 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 822
   },
   {
@@ -11519,7 +11519,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 5,500 \\times (0.0170 - 0.0080) = 239,580 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 823
   },
   {
@@ -11533,7 +11533,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 824
   },
   {
@@ -11547,7 +11547,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{275,880}{1061} = 260.02 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.520 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 825
   },
   {
@@ -11561,7 +11561,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 5,800 \\times (83 - 55) = 175,392 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 826
   },
   {
@@ -11575,7 +11575,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 5,900 \\times (0.0210 - 0.0100) = 314,116 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 827
   },
   {
@@ -11589,7 +11589,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 828
   },
   {
@@ -11603,7 +11603,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{132,858}{1061} = 125.22 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.251 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 829
   },
   {
@@ -11617,7 +11617,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 6,200 \\times (82 - 56) = 174,096 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 830
   },
   {
@@ -11631,7 +11631,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 6,300 \\times (0.0150 - 0.0095) = 167,706 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 831
   },
   {
@@ -11645,7 +11645,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 832
   },
   {
@@ -11659,7 +11659,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{283,140}{1061} = 266.86 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.534 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 833
   },
   {
@@ -11673,7 +11673,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 6,600 \\times (81 - 57) = 171,072 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 834
   },
   {
@@ -11687,7 +11687,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 6,700 \\times (0.0190 - 0.0090) = 324,280 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 835
   },
   {
@@ -11701,7 +11701,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 836
   },
   {
@@ -11715,7 +11715,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{367,356}{1061} = 346.24 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.693 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 837
   },
   {
@@ -11729,7 +11729,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 7,000 \\times (80 - 55) = 189,000 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 838
   },
   {
@@ -11743,7 +11743,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 7,100 \\times (0.0130 - 0.0085) = 154,638 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 839
   },
   {
@@ -11757,7 +11757,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 840
   },
   {
@@ -11771,7 +11771,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{194,326}{1061} = 183.15 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.366 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 841
   },
   {
@@ -11785,7 +11785,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 7,400 \\times (84 - 56) = 223,776 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 842
   },
   {
@@ -11799,7 +11799,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 7,500 \\times (0.0170 - 0.0080) = 326,700 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 843
   },
   {
@@ -11813,7 +11813,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 844
   },
   {
@@ -11827,7 +11827,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{372,680}{1061} = 351.25 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.703 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 845
   },
   {
@@ -11841,7 +11841,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 7,800 \\times (83 - 57) = 219,024 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 846
   },
   {
@@ -11855,7 +11855,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 7,900 \\times (0.0210 - 0.0100) = 420,596 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 847
   },
   {
@@ -11869,7 +11869,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 848
   },
   {
@@ -11883,7 +11883,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{176,418}{1061} = 166.28 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.333 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 849
   },
   {
@@ -11897,7 +11897,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 8,200 \\times (82 - 55) = 239,112 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 850
   },
   {
@@ -11911,7 +11911,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 8,300 \\times (0.0150 - 0.0095) = 220,946 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 851
   },
   {
@@ -11925,7 +11925,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 852
   },
   {
@@ -11939,7 +11939,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{370,260}{1061} = 348.97 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.698 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 853
   },
   {
@@ -11953,7 +11953,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 8,600 \\times (81 - 56) = 232,200 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 854
   },
   {
@@ -11967,7 +11967,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 8,700 \\times (0.0190 - 0.0090) = 421,080 \\text{ Btuh}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 855
   },
   {
@@ -11981,7 +11981,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 856
   },
   {
@@ -11995,7 +11995,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{473,836}{1061} = 446.59 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.894 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Sensible & Latent Heat Balances",
+    "topic": "Fundamental Knowledge",
     "id": 857
   },
   {
@@ -12009,7 +12009,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** A centrifugal pump with a backward-running impeller still pushes water out of the discharge port due to centrifugal force, but the fluid dynamics of the blades are highly inefficient, resulting in a drop to ~50-60% of design flow/head, and a corresponding drop in motor load (amps).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 858
   },
   {
@@ -12023,7 +12023,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 210 \\times \\frac{10.0}{10.5} = 200.0 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 859
   },
   {
@@ -12037,7 +12037,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 84 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 72.9 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 860
   },
   {
@@ -12051,7 +12051,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 861
   },
   {
@@ -12065,7 +12065,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** System Effect is a loss in fan performance resulting from turbulent, non-uniform airflow entering or leaving the fan. It cannot be measured directly in the field but must be estimated as a static pressure penalty added to the system curve calculations.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 862
   },
   {
@@ -12079,7 +12079,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** A centrifugal pump with a backward-running impeller still pushes water out of the discharge port due to centrifugal force, but the fluid dynamics of the blades are highly inefficient, resulting in a drop to ~50-60% of design flow/head, and a corresponding drop in motor load (amps).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 863
   },
   {
@@ -12093,7 +12093,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 260 \\times \\frac{9.5}{10.0} = 247.0 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 864
   },
   {
@@ -12107,7 +12107,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 94 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 82.1 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 865
   },
   {
@@ -12121,7 +12121,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 866
   },
   {
@@ -12135,7 +12135,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 310 \\times \\frac{10.5}{11.0} = 295.9 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 867
   },
   {
@@ -12149,7 +12149,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 104 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 91.4 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 868
   },
   {
@@ -12163,7 +12163,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 869
   },
   {
@@ -12177,7 +12177,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 360 \\times \\frac{10.0}{10.5} = 342.9 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 870
   },
   {
@@ -12191,7 +12191,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 114 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 99.0 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 871
   },
   {
@@ -12205,7 +12205,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 872
   },
   {
@@ -12219,7 +12219,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 410 \\times \\frac{9.5}{10.0} = 389.5 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 873
   },
   {
@@ -12233,7 +12233,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 124 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 108.4 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 874
   },
   {
@@ -12247,7 +12247,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 875
   },
   {
@@ -12261,7 +12261,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 460 \\times \\frac{10.5}{11.0} = 439.1 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 876
   },
   {
@@ -12275,7 +12275,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 134 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 117.8 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 877
   },
   {
@@ -12289,7 +12289,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 878
   },
   {
@@ -12303,7 +12303,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 510 \\times \\frac{10.0}{10.5} = 485.7 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 879
   },
   {
@@ -12317,7 +12317,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 144 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 125.0 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 880
   },
   {
@@ -12331,7 +12331,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 881
   },
   {
@@ -12345,7 +12345,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 560 \\times \\frac{9.5}{10.0} = 532.0 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 882
   },
   {
@@ -12359,7 +12359,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 154 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 134.6 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 883
   },
   {
@@ -12373,7 +12373,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 884
   },
   {
@@ -12387,7 +12387,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 610 \\times \\frac{10.5}{11.0} = 582.3 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 885
   },
   {
@@ -12401,7 +12401,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 164 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 144.1 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 886
   },
   {
@@ -12415,7 +12415,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 887
   },
   {
@@ -12429,7 +12429,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 660 \\times \\frac{10.0}{10.5} = 628.6 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 888
   },
   {
@@ -12443,7 +12443,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 174 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 151.1 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 889
   },
   {
@@ -12457,7 +12457,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 890
   },
   {
@@ -12471,7 +12471,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 710 \\times \\frac{9.5}{10.0} = 674.5 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 891
   },
   {
@@ -12485,7 +12485,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 184 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 160.8 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 892
   },
   {
@@ -12499,7 +12499,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 893
   },
   {
@@ -12513,7 +12513,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 760 \\times \\frac{10.5}{11.0} = 725.5 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 894
   },
   {
@@ -12527,7 +12527,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 194 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 170.5 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 895
   },
   {
@@ -12541,7 +12541,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 896
   },
   {
@@ -12555,7 +12555,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 810 \\times \\frac{10.0}{10.5} = 771.4 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 897
   },
   {
@@ -12569,7 +12569,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 204 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 177.1 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 898
   },
   {
@@ -12583,7 +12583,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 899
   },
   {
@@ -12597,7 +12597,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 860 \\times \\frac{9.5}{10.0} = 817.0 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 900
   },
   {
@@ -12611,7 +12611,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 214 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 187.0 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 901
   },
   {
@@ -12625,7 +12625,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 902
   },
   {
@@ -12639,7 +12639,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 910 \\times \\frac{10.5}{11.0} = 868.6 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 903
   },
   {
@@ -12653,7 +12653,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 224 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 196.9 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 904
   },
   {
@@ -12667,7 +12667,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 905
   },
   {
@@ -12681,7 +12681,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 960 \\times \\frac{10.0}{10.5} = 914.3 \\text{ gpm}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 906
   },
   {
@@ -12695,7 +12695,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 234 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 203.2 \\text{ ft}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 907
   },
   {
@@ -12709,7 +12709,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Fan & Pump Curve Diagnostics",
+    "topic": "Testing and Analysis",
     "id": 908
   },
   {
@@ -12723,7 +12723,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Average Voltage $= \\frac{460 + 452 + 468}{3} = 460.0 \\text{ V}$. Max deviation from average $= 8.0 \\text{ V}$. Voltage unbalance $(\\%) = \\frac{Max\\ Deviation}{Average} \\times 100 = \\frac{8.0}{460.0} \\times 100 = 1.74\\%$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 909
   },
   {
@@ -12737,7 +12737,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Loop oscillation or hunting is caused by an overactive control loop. To stabilize it, the proportional gain must be decreased (widening the proportional band) and the integral action slowed down (increasing integral time).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 910
   },
   {
@@ -12751,7 +12751,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Installing the static pressure sensor 2/3 to 3/4 down the main trunk ensures that the furthest VAV terminal box has sufficient pressure to modulate without the fan running at excessively high discharge pressures.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 911
   },
   {
@@ -12765,7 +12765,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** For spaces requiring negative containment (like hazardous labs or bio-safety cabinets), the exhaust airflow must be balanced to a positive tolerance (+10% / -0%) to guarantee containment is never compromised.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 912
   },
   {
@@ -12779,7 +12779,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 4.0^{0.65} = 7.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 88.6$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 913
   },
   {
@@ -12793,7 +12793,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 3.0^{0.65} = 8.169$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 118.5$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 914
   },
   {
@@ -12807,7 +12807,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 5.0^{0.65} = 8.540$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 145.2$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 915
   },
   {
@@ -12821,7 +12821,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 4.0^{0.65} = 9.849$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 192.1$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 916
   },
   {
@@ -12835,7 +12835,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 3.0^{0.65} = 6.127$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 134.8$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 917
   },
   {
@@ -12849,7 +12849,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 5.0^{0.65} = 11.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 279.0$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 918
   },
   {
@@ -12863,7 +12863,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 4.0^{0.65} = 7.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 199.4$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 919
   },
   {
@@ -12877,7 +12877,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 3.0^{0.65} = 8.169$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 241.0$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 920
   },
   {
@@ -12891,7 +12891,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 5.0^{0.65} = 8.540$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 273.3$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 921
   },
   {
@@ -12905,7 +12905,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 4.0^{0.65} = 9.849$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 339.8$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 922
   },
   {
@@ -12919,7 +12919,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 3.0^{0.65} = 6.127$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 226.7$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 923
   },
   {
@@ -12933,7 +12933,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 5.0^{0.65} = 11.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 449.8$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 924
   },
   {
@@ -12947,7 +12947,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 4.0^{0.65} = 7.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 310.2$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 925
   },
   {
@@ -12961,7 +12961,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 3.0^{0.65} = 8.169$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 363.5$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 926
   },
   {
@@ -12975,7 +12975,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 5.0^{0.65} = 8.540$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 401.4$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 927
   },
   {
@@ -12989,7 +12989,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 4.0^{0.65} = 9.849$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 487.5$ cfm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set10.md",
-    "topic": "Advanced TAB Field Troubleshooting",
+    "topic": "Testing and Analysis",
     "id": 928
   },
   {
@@ -13004,7 +13004,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In fluid dynamics, pressure drop (system resistance) varies with the square of the flow rate. The relationship is expressed as: $SP_2 = SP_1 \\times (Q_2 / Q_1)^2$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Hydronic Systems & Components",
     "id": 929
   },
   {
@@ -13019,7 +13019,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Absolute pressure is gauge pressure plus atmospheric pressure. Under standard atmospheric conditions, $P_{abs} = P_{gauge} + P_{atm} = 14.7 \\text{ psi} + 14.7 \\text{ psi} = 29.4$ psia.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 930
   },
   {
@@ -13034,7 +13034,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Total pressure is the sum of static pressure and velocity pressure: $TP = SP + VP$. Therefore, $VP = TP - SP = 2.6 \\text{ in.w.g.} - 2.1 \\text{ in.w.g.} = 0.5$ in.w.g. (or $125$ Pa).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 931
   },
   {
@@ -13049,7 +13049,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Condensation forms when the pipe surface temperature (45 F) is at or below the dew point of the surrounding air. To prevent condensation, the space dew point must remain below 45 F. At 70 F dry bulb:",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 932
   },
   {
@@ -13064,7 +13064,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calculate the mixed dry bulb temperature using a weighted average: $t_{mix} = \\frac{(6000 \\times 75) + (2000 \\times 95)}{8000} = 80 \\text{ F DB}$. Checking the psychrometric chart for the intersection of the mixing line at 80 F DB yields approximately 67 F WB and 50% RH.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 933
   },
   {
@@ -13079,7 +13079,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Hydronic Systems & Components",
     "id": 934
   },
   {
@@ -13094,7 +13094,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 935
   },
   {
@@ -13109,7 +13109,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 936
   },
   {
@@ -13124,7 +13124,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Hydronic pressure drop varies with the square of the flow rate: $\\Delta P_2 = \\Delta P_1 \\times (Q_2 / Q_1)^2$. The ratio is $(110 / 100)^2 = 1.21$.\n- $20 \\times 1.21 = 24.2$ psi.\n- $15 \\times 1.21 = 18.15 \\approx 18.2$ psi.\n- $10 \\times 1.21 = 12.1$ psi.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Hydronic Systems & Components",
     "id": 937
   },
   {
@@ -13139,7 +13139,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Use the Ideal Gas Law for constant volume: $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$ using absolute values.\n- $P_1 = 100 \\text{ psig} + 14.7 = 114.7$ psia.\n- $T_1 = 68 \\text{ F} + 460 = 528$ R.\n- $T_2 = 122 \\text{ F} + 460 = 582$ R.\n- $P_2 = 114.7 \\times \\frac{582}{528} = 126.4$ psia.\n- Gauge pressure $P_{2,gauge} = 126.4 - 14.7 = 111.7$ psig.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 938
   },
   {
@@ -13154,7 +13154,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to standard psychrometric tables, the enthalpy of saturated air at 68 F (100% RH) is 32.4 Btu/lb of dry air.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 939
   },
   {
@@ -13169,7 +13169,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Reheat coils only raise the dry-bulb temperature of the air without adding or removing moisture. Since the humidity ratio remains constant, this is purely a sensible heating process.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 940
   },
   {
@@ -13184,7 +13184,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In a counterflow configuration, the air and water flow in opposite directions. This allows the temperature profile curves to run parallel to each other, maintaining a steady heat transfer coefficient along the coil.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 941
   },
   {
@@ -13199,7 +13199,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In the classic wind chill table used in the study course, the wind chill temperature for 30 mph at -10 F is -64 F (approx. -53 C).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 942
   },
   {
@@ -13214,7 +13214,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Throttling dampers increases system resistance, making the system curve steeper. The fan must operate against higher static pressure at a lower flow rate, which corresponds to moving up and to the left along the fan's characteristic H-Q curve.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "System Building Relationships",
     "id": 943
   },
   {
@@ -13227,7 +13227,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Centrifugal fans are constant-volume machines. They move the same volume of air (CFM) regardless of density. However, the static pressure developed and the brake horsepower required will change in direct proportion to the air density.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 944
   },
   {
@@ -13242,7 +13242,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 945
   },
   {
@@ -13257,7 +13257,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The third fan law states that power is proportional to the cube of the speed ratio: $BHP_2 = BHP_1 \\times (RPM_2 / RPM_1)^3$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 946
   },
   {
@@ -13272,7 +13272,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The power curve of a backward inclined (BI) fan reaches a peak near the middle of its operating range and then falls off at higher flow rates. This prevents the motor from overloading even if the system static pressure drops to zero.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "System Building Relationships",
     "id": 947
   },
   {
@@ -13285,7 +13285,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Loss coefficients (C-factors) for duct fittings vary with velocity and fluid viscosity. The Reynolds number is used to correct these coefficients for non-standard velocities and air densities.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Hydronic Systems & Components",
     "id": 948
   },
   {
@@ -13300,7 +13300,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Summing all the traverse readings in the grid and dividing by the total number of points (31 active readings, accounting for the first row starting at position 2 with 200 and having a low or zero reading at position 1) yields an average velocity of 1,003 FPM.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Management & Procedural Standards",
     "id": 949
   },
   {
@@ -13315,7 +13315,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "System Building Relationships",
     "id": 950
   },
   {
@@ -13330,7 +13330,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 951
   },
   {
@@ -13345,7 +13345,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 952
   },
   {
@@ -13360,7 +13360,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Air Systems & Components",
     "id": 953
   },
   {
@@ -13375,7 +13375,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** At the same RPM, the forward curved fan (which has many smaller, cupped blades) has a much higher flow coefficient and delivers more volume, though it operates at a lower static efficiency compared to the airfoil fan. Thus, the airfoil fan's flow will be less.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Hydronic Systems & Components",
     "id": 954
   },
   {
@@ -13390,7 +13390,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The terminal velocity formula is: $V = \\frac{CFM}{A_k}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 1",
+    "topic": "Fundamental Knowledge",
     "id": 955
   },
   {
@@ -13405,7 +13405,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 956
   },
   {
@@ -13420,7 +13420,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 957
   },
   {
@@ -13435,7 +13435,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Under standard conditions, 1 in.Hg is equivalent to 0.4912 psi.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 958
   },
   {
@@ -13450,7 +13450,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In a series circuit, total resistance is the sum of all individual resistances: $R_{total} = 12 + 4 + 8 = 24 \\ \\Omega$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 959
   },
   {
@@ -13465,7 +13465,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pulley diameters and rotational speeds are inversely proportional: $D_{motor} \\times RPM_{motor} = D_{fan} \\times RPM_{fan}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 960
   },
   {
@@ -13480,7 +13480,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 961
   },
   {
@@ -13495,7 +13495,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 962
   },
   {
@@ -13510,7 +13510,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** A diverting valve splits a single incoming water stream into two separate outlets (bypass or coil). A mixing valve combines two inlets into one common outlet.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 963
   },
   {
@@ -13525,7 +13525,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 964
   },
   {
@@ -13540,7 +13540,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 965
   },
   {
@@ -13555,7 +13555,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** A centrifugal pump is a constant-displacement/constant-volume device. It will move the same volumetric flow rate (100 GPM) regardless of water temperature and density, provided the system resistance remains 40 feet of head. (Note: The motor BHP will drop slightly due to lower density).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 966
   },
   {
@@ -13570,7 +13570,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws, flow rate varies directly with rotational speed: $GPM_2 = GPM_1 \\times (RPM_2 / RPM_1) = 50 \\times (3500 / 1750) = 100$ gpm.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Fundamental Knowledge",
     "id": 967
   },
   {
@@ -13585,7 +13585,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** According to Pump Affinity Laws, pump head varies with the square of the speed ratio: $Head_2 = Head_1 \\times (RPM_2 / RPM_1)^2 = 20 \\times (3500 / 1750)^2 = 20 \\times 4 = 80$ feet.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Fundamental Knowledge",
     "id": 968
   },
   {
@@ -13600,7 +13600,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 969
   },
   {
@@ -13615,7 +13615,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** In a closed hydronic loop, system head varies as the square of the flow rate: $Head = C \\times GPM^2$.\n- $C = \\frac{60}{250^2} = 0.00096$.\n- At 100 gpm: $0.00096 \\times 100^2 = 9.6$ ft? No!\n- At 200 gpm: $2.4 \\times 2^2 = 9.6$ ft.\n- At 300 gpm: $2.4 \\times 3^2 = 21.6$ ft.\n- At 400 gpm: $2.4 \\times 4^2 = 38.4$ ft.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Fundamental Knowledge",
     "id": 970
   },
   {
@@ -13630,7 +13630,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Looking at the H-Q pump curves, the intersection of 250 GPM and 60 feet of head falls exactly on the curve for the 9.75\" diameter impeller.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Testing and Analysis",
     "id": 971
   },
   {
@@ -13645,7 +13645,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Running a single pump shifts the operating point to the intersection of that pump's single H-Q curve and the system curve. A single pump will deliver more than half the parallel design flow (~337 GPM) at a slightly lower head (~55 ft).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Testing and Analysis",
     "id": 972
   },
   {
@@ -13660,7 +13660,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Testing and Analysis",
     "id": 973
   },
   {
@@ -13675,7 +13675,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pressure drop in psi is calculated as: $\\Delta P = (GPM / C_v)^2$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 974
   },
   {
@@ -13690,7 +13690,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 975
   },
   {
@@ -13705,7 +13705,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Fundamental Knowledge",
     "id": 976
   },
   {
@@ -13720,7 +13720,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 977
   },
   {
@@ -13735,7 +13735,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Fundamental Knowledge",
     "id": 978
   },
   {
@@ -13750,7 +13750,7 @@ const EXAM_QUESTIONS = [
     "explanation": "**\n- Piping friction loss $= 500 \\text{ ft} \\times \\frac{1.5 \\text{ ft}}{100 \\text{ ft}} = 7.5$ ft.\n- Nozzle pressure drop $= 5 \\text{ psi} \\times 2.31 \\text{ ft/psi} = 11.55$ ft.\n- Chiller pressure drop $= 13.0$ ft.\n- Static lift $= 10.0$ ft.\n- Total pump head $= 7.5 + 11.55 + 13.0 + 10.0 = 42.05 \\approx 42.0$ ft.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 979
   },
   {
@@ -13765,7 +13765,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The suction isolation valve must always be 100% wide open during operation. Throttling the suction side of a pump creates a localized vacuum, leading to pump cavitation, loss of prime, and impeller damage.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 980
   },
   {
@@ -13778,7 +13778,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** NEBB procedural standards require a complete, documented set of preliminary checks and reports for every certified project, regardless of the relationship between the TAB firm and the installer.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Management & Procedural Standards",
     "id": 981
   },
   {
@@ -13793,7 +13793,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Calibrated test dial gauges used for differential pressure measurements must have a certified accuracy of within \\pm 0.5\\% (1/2 of 1%) of the dial scale range.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Management & Procedural Standards",
     "id": 982
   },
   {
@@ -13808,7 +13808,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The TXV is installed in the high-pressure liquid line immediately before the entrance to the evaporator coil, regulating the liquid refrigerant injection based on suction superheat.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "System Building Relationships",
     "id": 983
   },
   {
@@ -13823,7 +13823,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Unlike hydronic loops, steam systems are self-balancing (steam naturally travels to zones of lower pressure where it condenses). Flow balance is pre-determined by correct pipe sizing and orifice selection during design.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Fundamental Knowledge",
     "id": 984
   },
   {
@@ -13838,7 +13838,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Pressure drop varies with the square of the flow rate: $HD_2 = HD_1 \\times (GPM_2 / GPM_1)^2 = 10 \\times (8 / 4)^2 = 10 \\times 4 = 40$ feet.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Examination No. 2",
+    "topic": "Hydronic Systems & Components",
     "id": 985
   },
   {
@@ -13853,7 +13853,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The First Law of Thermodynamics is the Law of Conservation of Energy, which states that energy cannot be created or destroyed, only converted.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 986
   },
   {
@@ -13868,7 +13868,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The Second Law states that heat always flows from a high-temperature region to a low-temperature region, and external work is required to reverse this path (as in a refrigeration cycle).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 987
   },
   {
@@ -13883,7 +13883,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** If pressure at the pump inlet drops below the vapor pressure of the fluid, the liquid boils locally, forming vapor pockets. When these pockets enter high-pressure areas, they collapse violently (cavitation).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Hydronic Systems & Components",
     "id": 988
   },
   {
@@ -13898,7 +13898,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 989
   },
   {
@@ -13913,7 +13913,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The specific heat of water is 1.0 Btu/lb-F. The temperature difference is $212 - 32 = 180$ F. Heat required $= 1 \\text{ lb} \\times 1.0 \\text{ Btu/lb-F} \\times 180 \\text{ F} = 180$ Btu.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 990
   },
   {
@@ -13928,7 +13928,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 991
   },
   {
@@ -13943,7 +13943,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** System Effect is a loss in fan performance (lower flow and static pressure) caused by turbulent, non-uniform airflow at the fan inlet or outlet connections, which deviates from catalog test setups.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Testing and Analysis",
     "id": 992
   },
   {
@@ -13958,7 +13958,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Fan surge occurs when a fan operates in its unstable region (typically left of the peak pressure point). High resistance forces the fan to stall, leading to cyclic flow reversal, noise, and vibration.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Testing and Analysis",
     "id": 993
   },
   {
@@ -13973,7 +13973,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Packing seals allow a controlled amount of leakage to lubricate the shaft, and are highly resilient to suspended solids and grit that would destroy precision mechanical seal faces.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "System Building Relationships",
     "id": 994
   },
   {
@@ -13988,7 +13988,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Wear rings provide a close-tolerance seal between the high-pressure volute and the low-pressure suction eye. They wear down over time and are replaced to restore pump efficiency without replacing the impeller or casing.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Management & Procedural Standards",
     "id": 995
   },
   {
@@ -14003,7 +14003,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** A memory stop is a physical collar or bolt that limits the valve stem travel. It allows isolation for service and guarantees the valve returns to its balanced position when reopened.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 996
   },
   {
@@ -14018,7 +14018,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Mixing valves combine water flows from two different sources (e.g. coil return and bypass) into one common discharge pipe. Thus, they have two inlets and one outlet.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Hydronic Systems & Components",
     "id": 997
   },
   {
@@ -14033,7 +14033,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** The implosion of vapor bubbles against the pump impeller blades generates intense local shockwaves, which sound like gravel, rocks, or marbles passing through the pump casing.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Hydronic Systems & Components",
     "id": 998
   },
   {
@@ -14048,7 +14048,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** To ensure water remains in liquid form at the impeller inlet, the suction head pressure available (NPSHA) must be greater than the manufacturer's required pressure (NPSHR) to prevent vapor formation.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 999
   },
   {
@@ -14063,7 +14063,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Synchronous speed is calculated as: $RPM = \\frac{120 \\times F}{P}$.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "System Building Relationships",
     "id": 1000
   },
   {
@@ -14078,7 +14078,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "System Building Relationships",
     "id": 1001
   },
   {
@@ -14093,7 +14093,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** NEBB defines an embedded motor as one that cannot be reached or serviced without dismantling housing components (e.g. cassette ductless units, fan-powered VAV boxes, direct-drive ceiling exhaust fans).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Management & Procedural Standards",
     "id": 1002
   },
   {
@@ -14108,7 +14108,7 @@ const EXAM_QUESTIONS = [
     "explanation": "",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "System Building Relationships",
     "id": 1003
   },
   {
@@ -14123,7 +14123,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** DDC controllers modulate actuators using standard analog electric signals, which are typically 0 to 10 volts DC (VDC) or 4 to 20 milliamperes (mA).",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "System Building Relationships",
     "id": 1004
   },
   {
@@ -14138,7 +14138,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Point-to-point verification is a quality control check confirming that wiring and addressing matches the control drawings, ensuring sensor \"A\" reads at controller input \"A\".",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "System Building Relationships",
     "id": 1005
   },
   {
@@ -14153,7 +14153,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** By definition, a standard HEPA filter must capture at least 99.97% of all airborne particles that are 0.3 microns in diameter or larger.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Air Systems & Components",
     "id": 1006
   },
   {
@@ -14168,7 +14168,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Sound Power Level (Lw) is the rate at which acoustic energy is radiated from a source. Sound Pressure Level (Lp) is the actual pressure fluctuation felt at a receiver's ear or microphone, which decreases with distance and varies with room absorption.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Fundamental Knowledge",
     "id": 1007
   },
   {
@@ -14183,7 +14183,7 @@ const EXAM_QUESTIONS = [
     "explanation": "** Applying the NEBB certification seal and signing the report is a direct, personal professional responsibility of the Certified Professional (CP) overseeing the project.",
     "lang": "en",
     "source": "tab_cp_new_folder_prep_set9.md",
-    "topic": "Study Course Lesson Questions",
+    "topic": "Management & Procedural Standards",
     "id": 1008
   }
 ];
