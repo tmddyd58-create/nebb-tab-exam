@@ -955,9 +955,8 @@
           }
         } else {
           card.addEventListener("click", () => {
-            document.querySelectorAll("#practice-options-container .option-card").forEach(el => el.classList.remove("selected"));
-            card.classList.add("selected");
             activeSession.answers[activeSession.currentIndex] = letter;
+            renderPracticeQuestion();
           });
         }
 
@@ -986,7 +985,7 @@
         showExpBtn.style.display = "none";
       } else {
         expBox.style.display = "none";
-        submitBtn.style.display = "inline-flex";
+        submitBtn.style.display = "none";
         showExpBtn.style.display = "inline-flex";
       }
 

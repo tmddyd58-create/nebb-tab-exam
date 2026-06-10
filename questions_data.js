@@ -9897,5 +9897,4293 @@ const EXAM_QUESTIONS = [
     "source": "tab_cp_exam_prep_100_set5.md",
     "topic": "",
     "id": 707
+  },
+  {
+    "text": "A thermal energy storage basin contains 10 kg of ice at -10 C. An electric immersion heater rated at 5.0 kW with a heating efficiency of 85% is turned on to melt the ice and raise the water temperature to 20 C. How long will this process take?",
+    "options": [
+      "17.2 minutes",
+      "22.5 minutes",
+      "12.8 minutes"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 708
+  },
+  {
+    "text": "A thermal energy storage basin contains 25 kg of ice at -15 C. An electric immersion heater rated at 10.0 kW with a heating efficiency of 90% is turned on to melt the ice and raise the water temperature to 30 C. How long will this process take?",
+    "options": [
+      "12.5 minutes",
+      "19.3 minutes",
+      "25.0 minutes"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 709
+  },
+  {
+    "text": "A thermal energy storage basin contains 5 kg of ice at -5 C. An electric immersion heater rated at 2.5 kW with a heating efficiency of 80% is turned on to melt the ice and raise the water temperature to 15 C. How long will this process take?",
+    "options": [
+      "16.5 minutes",
+      "21.0 minutes",
+      "11.2 minutes"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 710
+  },
+  {
+    "text": "A thermal energy storage basin contains 50 kg of ice at -20 C. An electric immersion heater rated at 15.0 kW with a heating efficiency of 88% is turned on to melt the ice and raise the water temperature to 25 C. How long will this process take?",
+    "options": [
+      "20.2 minutes",
+      "15.5 minutes",
+      "30.5 minutes"
+    ],
+    "answer": "C",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 711
+  },
+  {
+    "text": "A thermal energy storage basin contains 12 kg of ice at -8 C. An electric immersion heater rated at 6.0 kW with a heating efficiency of 92% is turned on to melt the ice and raise the water temperature to 18 C. How long will this process take?",
+    "options": [
+      "10.2 minutes",
+      "14.1 minutes",
+      "18.5 minutes"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 712
+  },
+  {
+    "text": "A thermal energy storage basin contains 30 kg of ice at -12 C. An electric immersion heater rated at 12.0 kW with a heating efficiency of 87% is turned on to melt the ice and raise the water temperature to 35 C. How long will this process take?",
+    "options": [
+      "24.3 minutes",
+      "31.2 minutes",
+      "18.5 minutes"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 713
+  },
+  {
+    "text": "A thermal energy storage basin contains 8 kg of ice at -6 C. An electric immersion heater rated at 4.0 kW with a heating efficiency of 82% is turned on to melt the ice and raise the water temperature to 22 C. How long will this process take?",
+    "options": [
+      "12.5 minutes",
+      "15.0 minutes",
+      "18.0 minutes"
+    ],
+    "answer": "C",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 714
+  },
+  {
+    "text": "A thermal energy storage basin contains 15 kg of ice at -18 C. An electric immersion heater rated at 8.0 kW with a heating efficiency of 95% is turned on to melt the ice and raise the water temperature to 40 C. How long will this process take?",
+    "options": [
+      "12.2 minutes",
+      "16.4 minutes",
+      "22.8 minutes"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 715
+  },
+  {
+    "text": "A thermal energy storage basin contains 40 kg of ice at -10 C. An electric immersion heater rated at 10.0 kW with a heating efficiency of 75% is turned on to melt the ice and raise the water temperature to 10 C. How long will this process take?",
+    "options": [
+      "28.5 minutes",
+      "34.0 minutes",
+      "41.5 minutes"
+    ],
+    "answer": "C",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 716
+  },
+  {
+    "text": "A thermal energy storage basin contains 20 kg of ice at -5 C. An electric immersion heater rated at 5.0 kW with a heating efficiency of 80% is turned on to melt the ice and raise the water temperature to 5 C. How long will this process take?",
+    "options": [
+      "31.9 minutes",
+      "38.5 minutes",
+      "25.2 minutes"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required for each phase:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 717
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 100 lb of ice at 10 F and heat the resulting water to 60 F. A heating coil provides 25,000 Btuh with an efficiency of 85%. How long will the thawing process take?",
+    "options": [
+      "0.52 hours",
+      "0.81 hours",
+      "1.15 hours"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 718
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 250 lb of ice at 0 F and heat the resulting water to 70 F. A heating coil provides 50,000 Btuh with an efficiency of 90%. How long will the thawing process take?",
+    "options": [
+      "0.98 hours",
+      "1.35 hours",
+      "0.75 hours"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 719
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 50 lb of ice at 15 F and heat the resulting water to 80 F. A heating coil provides 12,000 Btuh with an efficiency of 80%. How long will the thawing process take?",
+    "options": [
+      "0.65 hours",
+      "0.82 hours",
+      "0.99 hours"
+    ],
+    "answer": "C",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 720
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 500 lb of ice at -5 F and heat the resulting water to 50 F. A heating coil provides 100,000 Btuh with an efficiency of 88%. How long will the thawing process take?",
+    "options": [
+      "1.01 hours",
+      "1.42 hours",
+      "0.85 hours"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 721
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 150 lb of ice at 5 F and heat the resulting water to 65 F. A heating coil provides 40,000 Btuh with an efficiency of 92%. How long will the thawing process take?",
+    "options": [
+      "0.52 hours",
+      "0.69 hours",
+      "0.88 hours"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 722
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 300 lb of ice at 12 F and heat the resulting water to 75 F. A heating coil provides 60,000 Btuh with an efficiency of 85%. How long will the thawing process take?",
+    "options": [
+      "0.85 hours",
+      "0.99 hours",
+      "1.12 hours"
+    ],
+    "answer": "C",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 723
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 80 lb of ice at 8 F and heat the resulting water to 90 F. A heating coil provides 20,000 Btuh with an efficiency of 80%. How long will the thawing process take?",
+    "options": [
+      "0.93 hours",
+      "1.15 hours",
+      "0.72 hours"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 724
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 200 lb of ice at -10 F and heat the resulting water to 55 F. A heating coil provides 35,000 Btuh with an efficiency of 95%. How long will the thawing process take?",
+    "options": [
+      "0.82 hours",
+      "1.02 hours",
+      "1.25 hours"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 725
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 400 lb of ice at 10 F and heat the resulting water to 45 F. A heating coil provides 80,000 Btuh with an efficiency of 75%. How long will the thawing process take?",
+    "options": [
+      "0.85 hours",
+      "1.00 hours",
+      "1.15 hours"
+    ],
+    "answer": "C",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 726
+  },
+  {
+    "text": "An outdoor hydronic pipe freeze protection loop needs to melt 120 lb of ice at 15 F and heat the resulting water to 85 F. A heating coil provides 25,000 Btuh with an efficiency of 90%. How long will the thawing process take?",
+    "options": [
+      "0.94 hours",
+      "1.21 hours",
+      "0.78 hours"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required in U.S. units:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 727
+  },
+  {
+    "text": "A steam humidifier canister evaporates 5 kg of water starting from a supply temperature of 20 C. The electric heating elements consume 10.0 kW with a heat transfer efficiency of 90%. How long will it take to completely boil off the water?",
+    "options": [
+      "0.41 hours",
+      "0.55 hours",
+      "0.32 hours"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required for evaporation:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 728
+  },
+  {
+    "text": "A steam humidifier canister evaporates 10 kg of water starting from a supply temperature of 15 C. The electric heating elements consume 20.0 kW with a heat transfer efficiency of 85%. How long will it take to completely boil off the water?",
+    "options": [
+      "0.32 hours",
+      "0.43 hours",
+      "0.58 hours"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required for evaporation:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 729
+  },
+  {
+    "text": "A steam humidifier canister evaporates 3 kg of water starting from a supply temperature of 25 C. The electric heating elements consume 5.0 kW with a heat transfer efficiency of 80%. How long will it take to completely boil off the water?",
+    "options": [
+      "0.38 hours",
+      "0.45 hours",
+      "0.54 hours"
+    ],
+    "answer": "C",
+    "explanation": "** Calculate the heat required for evaporation:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 730
+  },
+  {
+    "text": "A steam humidifier canister evaporates 20 kg of water starting from a supply temperature of 10 C. The electric heating elements consume 30.0 kW with a heat transfer efficiency of 92%. How long will it take to completely boil off the water?",
+    "options": [
+      "0.51 hours",
+      "0.68 hours",
+      "0.42 hours"
+    ],
+    "answer": "A",
+    "explanation": "** Calculate the heat required for evaporation:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 731
+  },
+  {
+    "text": "A steam humidifier canister evaporates 8 kg of water starting from a supply temperature of 30 C. The electric heating elements consume 15.0 kW with a heat transfer efficiency of 88%. How long will it take to completely boil off the water?",
+    "options": [
+      "0.32 hours",
+      "0.43 hours",
+      "0.55 hours"
+    ],
+    "answer": "B",
+    "explanation": "** Calculate the heat required for evaporation:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 732
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 15 lb of ice starting at -5 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "1941 Btu",
+      "2426 Btu",
+      "2912 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 15 \\text{ lb} \\times 0.48 \\times 37 = 266.4 \\text{ Btu}$. To melt it requires: $Q_2 = 15 \\text{ lb} \\times 144 = 2160.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 2426 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 733
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 17 lb of ice starting at -6 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "2206 Btu",
+      "2758 Btu",
+      "3310 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 17 \\text{ lb} \\times 0.48 \\times 38 = 310.1 \\text{ Btu}$. To melt it requires: $Q_2 = 17 \\text{ lb} \\times 144 = 2448.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 2758 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 734
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 19 lb of ice starting at -7 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "2473 Btu",
+      "3092 Btu",
+      "3710 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 19 \\text{ lb} \\times 0.48 \\times 39 = 355.7 \\text{ Btu}$. To melt it requires: $Q_2 = 19 \\text{ lb} \\times 144 = 2736.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 3092 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 735
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 21 lb of ice starting at -8 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "2742 Btu",
+      "3427 Btu",
+      "4113 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 21 \\text{ lb} \\times 0.48 \\times 40 = 403.2 \\text{ Btu}$. To melt it requires: $Q_2 = 21 \\text{ lb} \\times 144 = 3024.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 3427 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 736
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 23 lb of ice starting at -9 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "3012 Btu",
+      "3765 Btu",
+      "4518 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 23 \\text{ lb} \\times 0.48 \\times 41 = 452.6 \\text{ Btu}$. To melt it requires: $Q_2 = 23 \\text{ lb} \\times 144 = 3312.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 3765 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 737
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 25 lb of ice starting at -10 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "3283 Btu",
+      "4104 Btu",
+      "4925 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 25 \\text{ lb} \\times 0.48 \\times 42 = 504.0 \\text{ Btu}$. To melt it requires: $Q_2 = 25 \\text{ lb} \\times 144 = 3600.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 4104 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 738
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 27 lb of ice starting at -11 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "3556 Btu",
+      "4445 Btu",
+      "5334 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 27 \\text{ lb} \\times 0.48 \\times 43 = 557.3 \\text{ Btu}$. To melt it requires: $Q_2 = 27 \\text{ lb} \\times 144 = 3888.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 4445 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 739
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 29 lb of ice starting at -12 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "3831 Btu",
+      "4788 Btu",
+      "5746 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 29 \\text{ lb} \\times 0.48 \\times 44 = 612.5 \\text{ Btu}$. To melt it requires: $Q_2 = 29 \\text{ lb} \\times 144 = 4176.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 4788 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 740
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 31 lb of ice starting at -13 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "4107 Btu",
+      "5134 Btu",
+      "6160 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 31 \\text{ lb} \\times 0.48 \\times 45 = 669.6 \\text{ Btu}$. To melt it requires: $Q_2 = 31 \\text{ lb} \\times 144 = 4464.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 5134 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 741
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 33 lb of ice starting at -14 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "4385 Btu",
+      "5481 Btu",
+      "6577 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 33 \\text{ lb} \\times 0.48 \\times 46 = 728.6 \\text{ Btu}$. To melt it requires: $Q_2 = 33 \\text{ lb} \\times 144 = 4752.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 5481 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 742
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 35 lb of ice starting at -15 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "4664 Btu",
+      "5830 Btu",
+      "6996 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 35 \\text{ lb} \\times 0.48 \\times 47 = 789.6 \\text{ Btu}$. To melt it requires: $Q_2 = 35 \\text{ lb} \\times 144 = 5040.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 5830 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 743
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 37 lb of ice starting at -16 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "4944 Btu",
+      "6180 Btu",
+      "7417 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 37 \\text{ lb} \\times 0.48 \\times 48 = 852.5 \\text{ Btu}$. To melt it requires: $Q_2 = 37 \\text{ lb} \\times 144 = 5328.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 6180 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 744
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 39 lb of ice starting at -17 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "5227 Btu",
+      "6533 Btu",
+      "7840 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 39 \\text{ lb} \\times 0.48 \\times 49 = 917.3 \\text{ Btu}$. To melt it requires: $Q_2 = 39 \\text{ lb} \\times 144 = 5616.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 6533 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 745
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 41 lb of ice starting at -18 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "5510 Btu",
+      "6888 Btu",
+      "8266 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 41 \\text{ lb} \\times 0.48 \\times 50 = 984.0 \\text{ Btu}$. To melt it requires: $Q_2 = 41 \\text{ lb} \\times 144 = 5904.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 6888 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 746
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 43 lb of ice starting at -19 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "5796 Btu",
+      "7245 Btu",
+      "8694 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 43 \\text{ lb} \\times 0.48 \\times 51 = 1052.6 \\text{ Btu}$. To melt it requires: $Q_2 = 43 \\text{ lb} \\times 144 = 6192.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 7245 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 747
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 45 lb of ice starting at -20 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "6083 Btu",
+      "7603 Btu",
+      "9124 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 45 \\text{ lb} \\times 0.48 \\times 52 = 1123.2 \\text{ Btu}$. To melt it requires: $Q_2 = 45 \\text{ lb} \\times 144 = 6480.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 7603 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 748
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 47 lb of ice starting at -21 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "6371 Btu",
+      "7964 Btu",
+      "9556 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 47 \\text{ lb} \\times 0.48 \\times 53 = 1195.7 \\text{ Btu}$. To melt it requires: $Q_2 = 47 \\text{ lb} \\times 144 = 6768.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 7964 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 749
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 49 lb of ice starting at -22 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "6661 Btu",
+      "8326 Btu",
+      "9991 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 49 \\text{ lb} \\times 0.48 \\times 54 = 1270.1 \\text{ Btu}$. To melt it requires: $Q_2 = 49 \\text{ lb} \\times 144 = 7056.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 8326 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 750
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 51 lb of ice starting at -23 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "6952 Btu",
+      "8690 Btu",
+      "10428 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 51 \\text{ lb} \\times 0.48 \\times 55 = 1346.4 \\text{ Btu}$. To melt it requires: $Q_2 = 51 \\text{ lb} \\times 144 = 7344.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 8690 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 751
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 53 lb of ice starting at -24 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "7245 Btu",
+      "9057 Btu",
+      "10868 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 53 \\text{ lb} \\times 0.48 \\times 56 = 1424.6 \\text{ Btu}$. To melt it requires: $Q_2 = 53 \\text{ lb} \\times 144 = 7632.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 9057 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 752
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 55 lb of ice starting at -25 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "7540 Btu",
+      "9425 Btu",
+      "11310 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 55 \\text{ lb} \\times 0.48 \\times 57 = 1504.8 \\text{ Btu}$. To melt it requires: $Q_2 = 55 \\text{ lb} \\times 144 = 7920.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 9425 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 753
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 57 lb of ice starting at -26 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "7836 Btu",
+      "9795 Btu",
+      "11754 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 57 \\text{ lb} \\times 0.48 \\times 58 = 1586.9 \\text{ Btu}$. To melt it requires: $Q_2 = 57 \\text{ lb} \\times 144 = 8208.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 9795 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 754
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 59 lb of ice starting at -27 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "8134 Btu",
+      "10167 Btu",
+      "12200 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 59 \\text{ lb} \\times 0.48 \\times 59 = 1670.9 \\text{ Btu}$. To melt it requires: $Q_2 = 59 \\text{ lb} \\times 144 = 8496.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 10167 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 755
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 61 lb of ice starting at -28 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "8433 Btu",
+      "10541 Btu",
+      "12649 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 61 \\text{ lb} \\times 0.48 \\times 60 = 1756.8 \\text{ Btu}$. To melt it requires: $Q_2 = 61 \\text{ lb} \\times 144 = 8784.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 10541 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 756
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 63 lb of ice starting at -29 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "8733 Btu",
+      "10917 Btu",
+      "13100 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 63 \\text{ lb} \\times 0.48 \\times 61 = 1844.6 \\text{ Btu}$. To melt it requires: $Q_2 = 63 \\text{ lb} \\times 144 = 9072.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 10917 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 757
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 65 lb of ice starting at -30 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "9036 Btu",
+      "11294 Btu",
+      "13553 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 65 \\text{ lb} \\times 0.48 \\times 62 = 1934.4 \\text{ Btu}$. To melt it requires: $Q_2 = 65 \\text{ lb} \\times 144 = 9360.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 11294 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 758
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 67 lb of ice starting at -31 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "9339 Btu",
+      "11674 Btu",
+      "14009 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 67 \\text{ lb} \\times 0.48 \\times 63 = 2026.1 \\text{ Btu}$. To melt it requires: $Q_2 = 67 \\text{ lb} \\times 144 = 9648.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 11674 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 759
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 69 lb of ice starting at -32 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "9645 Btu",
+      "12056 Btu",
+      "14467 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 69 \\text{ lb} \\times 0.48 \\times 64 = 2119.7 \\text{ Btu}$. To melt it requires: $Q_2 = 69 \\text{ lb} \\times 144 = 9936.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 12056 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 760
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 71 lb of ice starting at -33 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "9951 Btu",
+      "12439 Btu",
+      "14927 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 71 \\text{ lb} \\times 0.48 \\times 65 = 2215.2 \\text{ Btu}$. To melt it requires: $Q_2 = 71 \\text{ lb} \\times 144 = 10224.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 12439 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 761
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 73 lb of ice starting at -34 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "10260 Btu",
+      "12825 Btu",
+      "15390 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 73 \\text{ lb} \\times 0.48 \\times 66 = 2312.6 \\text{ Btu}$. To melt it requires: $Q_2 = 73 \\text{ lb} \\times 144 = 10512.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 12825 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 762
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 75 lb of ice starting at -35 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "10570 Btu",
+      "13212 Btu",
+      "15854 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 75 \\text{ lb} \\times 0.48 \\times 67 = 2412.0 \\text{ Btu}$. To melt it requires: $Q_2 = 75 \\text{ lb} \\times 144 = 10800.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 13212 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 763
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 77 lb of ice starting at -36 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "10881 Btu",
+      "13601 Btu",
+      "16322 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 77 \\text{ lb} \\times 0.48 \\times 68 = 2513.3 \\text{ Btu}$. To melt it requires: $Q_2 = 77 \\text{ lb} \\times 144 = 11088.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 13601 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 764
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 79 lb of ice starting at -37 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "11194 Btu",
+      "13992 Btu",
+      "16791 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 79 \\text{ lb} \\times 0.48 \\times 69 = 2616.5 \\text{ Btu}$. To melt it requires: $Q_2 = 79 \\text{ lb} \\times 144 = 11376.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 13992 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 765
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 81 lb of ice starting at -38 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "11508 Btu",
+      "14386 Btu",
+      "17263 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 81 \\text{ lb} \\times 0.48 \\times 70 = 2721.6 \\text{ Btu}$. To melt it requires: $Q_2 = 81 \\text{ lb} \\times 144 = 11664.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 14386 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 766
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 83 lb of ice starting at -39 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "11825 Btu",
+      "14781 Btu",
+      "17737 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 83 \\text{ lb} \\times 0.48 \\times 71 = 2828.6 \\text{ Btu}$. To melt it requires: $Q_2 = 83 \\text{ lb} \\times 144 = 11952.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 14781 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 767
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 85 lb of ice starting at -40 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "12142 Btu",
+      "15178 Btu",
+      "18213 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 85 \\text{ lb} \\times 0.48 \\times 72 = 2937.6 \\text{ Btu}$. To melt it requires: $Q_2 = 85 \\text{ lb} \\times 144 = 12240.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 15178 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 768
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 87 lb of ice starting at -41 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "12461 Btu",
+      "15576 Btu",
+      "18692 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 87 \\text{ lb} \\times 0.48 \\times 73 = 3048.5 \\text{ Btu}$. To melt it requires: $Q_2 = 87 \\text{ lb} \\times 144 = 12528.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 15576 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 769
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 89 lb of ice starting at -42 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "12782 Btu",
+      "15977 Btu",
+      "19173 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 89 \\text{ lb} \\times 0.48 \\times 74 = 3161.3 \\text{ Btu}$. To melt it requires: $Q_2 = 89 \\text{ lb} \\times 144 = 12816.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 15977 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 770
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 91 lb of ice starting at -43 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "13104 Btu",
+      "16380 Btu",
+      "19656 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 91 \\text{ lb} \\times 0.48 \\times 75 = 3276.0 \\text{ Btu}$. To melt it requires: $Q_2 = 91 \\text{ lb} \\times 144 = 13104.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 16380 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 771
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 93 lb of ice starting at -44 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "13428 Btu",
+      "16785 Btu",
+      "20142 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 93 \\text{ lb} \\times 0.48 \\times 76 = 3392.6 \\text{ Btu}$. To melt it requires: $Q_2 = 93 \\text{ lb} \\times 144 = 13392.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 16785 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 772
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 95 lb of ice starting at -45 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "13753 Btu",
+      "17191 Btu",
+      "20629 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 95 \\text{ lb} \\times 0.48 \\times 77 = 3511.2 \\text{ Btu}$. To melt it requires: $Q_2 = 95 \\text{ lb} \\times 144 = 13680.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 17191 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 773
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 97 lb of ice starting at -46 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "14080 Btu",
+      "17600 Btu",
+      "21120 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 97 \\text{ lb} \\times 0.48 \\times 78 = 3631.7 \\text{ Btu}$. To melt it requires: $Q_2 = 97 \\text{ lb} \\times 144 = 13968.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 17600 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 774
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 99 lb of ice starting at -47 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "14408 Btu",
+      "18010 Btu",
+      "21612 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 99 \\text{ lb} \\times 0.48 \\times 79 = 3754.1 \\text{ Btu}$. To melt it requires: $Q_2 = 99 \\text{ lb} \\times 144 = 14256.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 18010 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 775
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 101 lb of ice starting at -48 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "14738 Btu",
+      "18422 Btu",
+      "22107 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 101 \\text{ lb} \\times 0.48 \\times 80 = 3878.4 \\text{ Btu}$. To melt it requires: $Q_2 = 101 \\text{ lb} \\times 144 = 14544.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 18422 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 776
+  },
+  {
+    "text": "Calculate the total British Thermal Units (Btu) required to melt 103 lb of ice starting at -49 F to water at a solid liquid mixture state of exactly 32 F.",
+    "options": [
+      "15069 Btu",
+      "18837 Btu",
+      "22604 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** To warm the ice to 32 F requires: $Q_1 = 103 \\text{ lb} \\times 0.48 \\times 81 = 4004.6 \\text{ Btu}$. To melt it requires: $Q_2 = 103 \\text{ lb} \\times 144 = 14832.0 \\text{ Btu}$. Total $= Q_1 + Q_2 = 18837 \\text{ Btu}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Psychrometrics & Ice Thermodynamics",
+    "id": 777
+  },
+  {
+    "text": "A cooling coil processes 1,000 cfm of air. The entering dry bulb temperature is 80 F and the leaving dry bulb is 55 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "24,300 Btuh",
+      "27,000 Btuh",
+      "29,700 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 1,000 \\times (80 - 55) = 27,000 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 778
+  },
+  {
+    "text": "For a cooling coil with 1,100 cfm of airflow, the entering moisture ratio is 0.0130 lb/lb and the leaving moisture ratio is 0.0085 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "23,958 Btuh",
+      "19,166 Btuh",
+      "28,750 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 1,100 \\times (0.0130 - 0.0085) = 23,958 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 779
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 32,400 Btuh and the latent cooling capacity is 29,040 Btuh.",
+    "options": [
+      "0.422",
+      "0.527",
+      "0.633"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 780
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 34,606 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.046 gpm",
+      "0.065 gpm",
+      "0.085 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{34,606}{1061} = 32.62 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.065 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 781
+  },
+  {
+    "text": "A cooling coil processes 1,400 cfm of air. The entering dry bulb temperature is 84 F and the leaving dry bulb is 56 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "38,102 Btuh",
+      "42,336 Btuh",
+      "46,570 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 1,400 \\times (84 - 56) = 42,336 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 782
+  },
+  {
+    "text": "For a cooling coil with 1,500 cfm of airflow, the entering moisture ratio is 0.0170 lb/lb and the leaving moisture ratio is 0.0080 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "65,340 Btuh",
+      "52,272 Btuh",
+      "78,408 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 1,500 \\times (0.0170 - 0.0080) = 65,340 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 783
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 44,928 Btuh and the latent cooling capacity is 73,568 Btuh.",
+    "options": [
+      "0.303",
+      "0.379",
+      "0.455"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 784
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 82,280 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.109 gpm",
+      "0.155 gpm",
+      "0.202 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{82,280}{1061} = 77.55 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.155 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 785
+  },
+  {
+    "text": "A cooling coil processes 1,800 cfm of air. The entering dry bulb temperature is 83 F and the leaving dry bulb is 57 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "45,490 Btuh",
+      "50,544 Btuh",
+      "55,598 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 1,800 \\times (83 - 57) = 50,544 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 786
+  },
+  {
+    "text": "For a cooling coil with 1,900 cfm of airflow, the entering moisture ratio is 0.0210 lb/lb and the leaving moisture ratio is 0.0100 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "101,156 Btuh",
+      "80,925 Btuh",
+      "121,387 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 1,900 \\times (0.0210 - 0.0100) = 101,156 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 787
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 51,840 Btuh and the latent cooling capacity is 38,720 Btuh.",
+    "options": [
+      "0.458",
+      "0.572",
+      "0.687"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 788
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 45,738 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.060 gpm",
+      "0.086 gpm",
+      "0.112 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{45,738}{1061} = 43.11 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.086 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 789
+  },
+  {
+    "text": "A cooling coil processes 2,200 cfm of air. The entering dry bulb temperature is 82 F and the leaving dry bulb is 55 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "57,737 Btuh",
+      "64,152 Btuh",
+      "70,567 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 2,200 \\times (82 - 55) = 64,152 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 790
+  },
+  {
+    "text": "For a cooling coil with 2,300 cfm of airflow, the entering moisture ratio is 0.0150 lb/lb and the leaving moisture ratio is 0.0095 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "61,226 Btuh",
+      "48,981 Btuh",
+      "73,471 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 2,300 \\times (0.0150 - 0.0095) = 61,226 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 791
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 69,984 Btuh and the latent cooling capacity is 69,696 Btuh.",
+    "options": [
+      "0.401",
+      "0.501",
+      "0.601"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 792
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 108,900 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.144 gpm",
+      "0.205 gpm",
+      "0.267 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{108,900}{1061} = 102.64 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.205 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 793
+  },
+  {
+    "text": "A cooling coil processes 2,600 cfm of air. The entering dry bulb temperature is 81 F and the leaving dry bulb is 56 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "63,180 Btuh",
+      "70,200 Btuh",
+      "77,220 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 2,600 \\times (81 - 56) = 70,200 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 794
+  },
+  {
+    "text": "For a cooling coil with 2,700 cfm of airflow, the entering moisture ratio is 0.0190 lb/lb and the leaving moisture ratio is 0.0090 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "130,680 Btuh",
+      "104,544 Btuh",
+      "156,816 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 2,700 \\times (0.0190 - 0.0090) = 130,680 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 795
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 84,672 Btuh and the latent cooling capacity is 142,296 Btuh.",
+    "options": [
+      "0.298",
+      "0.373",
+      "0.448"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 796
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 154,396 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.204 gpm",
+      "0.291 gpm",
+      "0.379 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{154,396}{1061} = 145.52 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.291 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 797
+  },
+  {
+    "text": "A cooling coil processes 3,000 cfm of air. The entering dry bulb temperature is 80 F and the leaving dry bulb is 57 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "67,068 Btuh",
+      "74,520 Btuh",
+      "81,972 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 3,000 \\times (80 - 57) = 74,520 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 798
+  },
+  {
+    "text": "For a cooling coil with 3,100 cfm of airflow, the entering moisture ratio is 0.0130 lb/lb and the leaving moisture ratio is 0.0085 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "67,518 Btuh",
+      "54,014 Btuh",
+      "81,022 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 3,100 \\times (0.0130 - 0.0085) = 67,518 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 799
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 89,856 Btuh and the latent cooling capacity is 77,440 Btuh.",
+    "options": [
+      "0.430",
+      "0.537",
+      "0.645"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 800
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 87,846 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.116 gpm",
+      "0.166 gpm",
+      "0.215 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{87,846}{1061} = 82.80 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.166 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 801
+  },
+  {
+    "text": "A cooling coil processes 3,400 cfm of air. The entering dry bulb temperature is 84 F and the leaving dry bulb is 55 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "95,839 Btuh",
+      "106,488 Btuh",
+      "117,137 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 3,400 \\times (84 - 55) = 106,488 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 802
+  },
+  {
+    "text": "For a cooling coil with 3,500 cfm of airflow, the entering moisture ratio is 0.0170 lb/lb and the leaving moisture ratio is 0.0080 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "152,460 Btuh",
+      "121,968 Btuh",
+      "182,952 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 3,500 \\times (0.0170 - 0.0080) = 152,460 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 803
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 93,312 Btuh and the latent cooling capacity is 165,528 Btuh.",
+    "options": [
+      "0.288",
+      "0.361",
+      "0.433"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 804
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 179,080 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.236 gpm",
+      "0.338 gpm",
+      "0.439 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{179,080}{1061} = 168.78 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.338 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 805
+  },
+  {
+    "text": "A cooling coil processes 3,800 cfm of air. The entering dry bulb temperature is 83 F and the leaving dry bulb is 56 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "99,727 Btuh",
+      "110,808 Btuh",
+      "121,889 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 3,800 \\times (83 - 56) = 110,808 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 806
+  },
+  {
+    "text": "For a cooling coil with 3,900 cfm of airflow, the entering moisture ratio is 0.0210 lb/lb and the leaving moisture ratio is 0.0100 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "207,636 Btuh",
+      "166,109 Btuh",
+      "249,163 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 3,900 \\times (0.0210 - 0.0100) = 207,636 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 807
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 108,000 Btuh and the latent cooling capacity is 77,440 Btuh.",
+    "options": [
+      "0.466",
+      "0.582",
+      "0.699"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 808
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 89,298 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.118 gpm",
+      "0.168 gpm",
+      "0.219 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{89,298}{1061} = 84.16 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.168 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 809
+  },
+  {
+    "text": "A cooling coil processes 4,200 cfm of air. The entering dry bulb temperature is 82 F and the leaving dry bulb is 57 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "102,060 Btuh",
+      "113,400 Btuh",
+      "124,740 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 4,200 \\times (82 - 57) = 113,400 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 810
+  },
+  {
+    "text": "For a cooling coil with 4,300 cfm of airflow, the entering moisture ratio is 0.0150 lb/lb and the leaving moisture ratio is 0.0095 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "114,466 Btuh",
+      "91,573 Btuh",
+      "137,359 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 4,300 \\times (0.0150 - 0.0095) = 114,466 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 811
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 133,056 Btuh and the latent cooling capacity is 127,776 Btuh.",
+    "options": [
+      "0.408",
+      "0.510",
+      "0.612"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 812
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 196,020 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.259 gpm",
+      "0.370 gpm",
+      "0.481 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{196,020}{1061} = 184.75 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.370 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 813
+  },
+  {
+    "text": "A cooling coil processes 4,600 cfm of air. The entering dry bulb temperature is 81 F and the leaving dry bulb is 55 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "116,251 Btuh",
+      "129,168 Btuh",
+      "142,085 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 4,600 \\times (81 - 55) = 129,168 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 814
+  },
+  {
+    "text": "For a cooling coil with 4,700 cfm of airflow, the entering moisture ratio is 0.0190 lb/lb and the leaving moisture ratio is 0.0090 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "227,480 Btuh",
+      "181,984 Btuh",
+      "272,976 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 4,700 \\times (0.0190 - 0.0090) = 227,480 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 815
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 134,784 Btuh and the latent cooling capacity is 243,936 Btuh.",
+    "options": [
+      "0.285",
+      "0.356",
+      "0.427"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 816
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 260,876 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.344 gpm",
+      "0.492 gpm",
+      "0.640 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{260,876}{1061} = 245.88 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.492 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 817
+  },
+  {
+    "text": "A cooling coil processes 5,000 cfm of air. The entering dry bulb temperature is 80 F and the leaving dry bulb is 56 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "116,640 Btuh",
+      "129,600 Btuh",
+      "142,560 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 5,000 \\times (80 - 56) = 129,600 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 818
+  },
+  {
+    "text": "For a cooling coil with 5,100 cfm of airflow, the entering moisture ratio is 0.0130 lb/lb and the leaving moisture ratio is 0.0085 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "111,078 Btuh",
+      "88,862 Btuh",
+      "133,294 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 5,100 \\times (0.0130 - 0.0085) = 111,078 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 819
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 151,632 Btuh and the latent cooling capacity is 125,840 Btuh.",
+    "options": [
+      "0.437",
+      "0.546",
+      "0.656"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 820
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 141,086 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.186 gpm",
+      "0.266 gpm",
+      "0.346 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{141,086}{1061} = 132.97 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.266 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 821
+  },
+  {
+    "text": "A cooling coil processes 5,400 cfm of air. The entering dry bulb temperature is 84 F and the leaving dry bulb is 57 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "141,718 Btuh",
+      "157,464 Btuh",
+      "173,210 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 5,400 \\times (84 - 57) = 157,464 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 822
+  },
+  {
+    "text": "For a cooling coil with 5,500 cfm of airflow, the entering moisture ratio is 0.0170 lb/lb and the leaving moisture ratio is 0.0080 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "239,580 Btuh",
+      "191,664 Btuh",
+      "287,496 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 5,500 \\times (0.0170 - 0.0080) = 239,580 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 823
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 151,200 Btuh and the latent cooling capacity is 257,488 Btuh.",
+    "options": [
+      "0.296",
+      "0.370",
+      "0.444"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 824
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 275,880 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.364 gpm",
+      "0.520 gpm",
+      "0.676 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{275,880}{1061} = 260.02 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.520 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 825
+  },
+  {
+    "text": "A cooling coil processes 5,800 cfm of air. The entering dry bulb temperature is 83 F and the leaving dry bulb is 55 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "157,853 Btuh",
+      "175,392 Btuh",
+      "192,931 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 5,800 \\times (83 - 55) = 175,392 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 826
+  },
+  {
+    "text": "For a cooling coil with 5,900 cfm of airflow, the entering moisture ratio is 0.0210 lb/lb and the leaving moisture ratio is 0.0100 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "314,116 Btuh",
+      "251,293 Btuh",
+      "376,939 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 5,900 \\times (0.0210 - 0.0100) = 314,116 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 827
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 149,040 Btuh and the latent cooling capacity is 116,160 Btuh.",
+    "options": [
+      "0.450",
+      "0.562",
+      "0.674"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 828
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 132,858 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.175 gpm",
+      "0.251 gpm",
+      "0.326 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{132,858}{1061} = 125.22 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.251 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 829
+  },
+  {
+    "text": "A cooling coil processes 6,200 cfm of air. The entering dry bulb temperature is 82 F and the leaving dry bulb is 56 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "156,686 Btuh",
+      "174,096 Btuh",
+      "191,506 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 6,200 \\times (82 - 56) = 174,096 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 830
+  },
+  {
+    "text": "For a cooling coil with 6,300 cfm of airflow, the entering moisture ratio is 0.0150 lb/lb and the leaving moisture ratio is 0.0095 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "167,706 Btuh",
+      "134,165 Btuh",
+      "201,247 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 6,300 \\times (0.0150 - 0.0095) = 167,706 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 831
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 200,448 Btuh and the latent cooling capacity is 185,856 Btuh.",
+    "options": [
+      "0.415",
+      "0.519",
+      "0.623"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 832
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 283,140 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.374 gpm",
+      "0.534 gpm",
+      "0.694 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{283,140}{1061} = 266.86 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.534 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 833
+  },
+  {
+    "text": "A cooling coil processes 6,600 cfm of air. The entering dry bulb temperature is 81 F and the leaving dry bulb is 57 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "153,965 Btuh",
+      "171,072 Btuh",
+      "188,179 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 6,600 \\times (81 - 57) = 171,072 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 834
+  },
+  {
+    "text": "For a cooling coil with 6,700 cfm of airflow, the entering moisture ratio is 0.0190 lb/lb and the leaving moisture ratio is 0.0090 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "324,280 Btuh",
+      "259,424 Btuh",
+      "389,136 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 6,700 \\times (0.0190 - 0.0090) = 324,280 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 835
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 198,288 Btuh and the latent cooling capacity is 345,576 Btuh.",
+    "options": [
+      "0.292",
+      "0.365",
+      "0.438"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 836
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 367,356 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.485 gpm",
+      "0.693 gpm",
+      "0.901 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{367,356}{1061} = 346.24 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.693 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 837
+  },
+  {
+    "text": "A cooling coil processes 7,000 cfm of air. The entering dry bulb temperature is 80 F and the leaving dry bulb is 55 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "170,100 Btuh",
+      "189,000 Btuh",
+      "207,900 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 7,000 \\times (80 - 55) = 189,000 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 838
+  },
+  {
+    "text": "For a cooling coil with 7,100 cfm of airflow, the entering moisture ratio is 0.0130 lb/lb and the leaving moisture ratio is 0.0085 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "154,638 Btuh",
+      "123,710 Btuh",
+      "185,566 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 7,100 \\times (0.0130 - 0.0085) = 154,638 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 839
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 194,400 Btuh and the latent cooling capacity is 174,240 Btuh.",
+    "options": [
+      "0.422",
+      "0.527",
+      "0.633"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 840
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 194,326 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.257 gpm",
+      "0.366 gpm",
+      "0.476 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{194,326}{1061} = 183.15 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.366 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 841
+  },
+  {
+    "text": "A cooling coil processes 7,400 cfm of air. The entering dry bulb temperature is 84 F and the leaving dry bulb is 56 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "201,398 Btuh",
+      "223,776 Btuh",
+      "246,154 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 7,400 \\times (84 - 56) = 223,776 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 842
+  },
+  {
+    "text": "For a cooling coil with 7,500 cfm of airflow, the entering moisture ratio is 0.0170 lb/lb and the leaving moisture ratio is 0.0080 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "326,700 Btuh",
+      "261,360 Btuh",
+      "392,040 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 7,500 \\times (0.0170 - 0.0080) = 326,700 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 843
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 213,408 Btuh and the latent cooling capacity is 349,448 Btuh.",
+    "options": [
+      "0.303",
+      "0.379",
+      "0.455"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 844
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 372,680 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.492 gpm",
+      "0.703 gpm",
+      "0.914 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{372,680}{1061} = 351.25 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.703 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 845
+  },
+  {
+    "text": "A cooling coil processes 7,800 cfm of air. The entering dry bulb temperature is 83 F and the leaving dry bulb is 57 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "197,122 Btuh",
+      "219,024 Btuh",
+      "240,926 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 7,800 \\times (83 - 57) = 219,024 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 846
+  },
+  {
+    "text": "For a cooling coil with 7,900 cfm of airflow, the entering moisture ratio is 0.0210 lb/lb and the leaving moisture ratio is 0.0100 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "420,596 Btuh",
+      "336,477 Btuh",
+      "504,715 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 7,900 \\times (0.0210 - 0.0100) = 420,596 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 847
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 207,360 Btuh and the latent cooling capacity is 154,880 Btuh.",
+    "options": [
+      "0.458",
+      "0.572",
+      "0.687"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 848
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 176,418 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.233 gpm",
+      "0.333 gpm",
+      "0.432 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{176,418}{1061} = 166.28 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.333 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 849
+  },
+  {
+    "text": "A cooling coil processes 8,200 cfm of air. The entering dry bulb temperature is 82 F and the leaving dry bulb is 55 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "215,201 Btuh",
+      "239,112 Btuh",
+      "263,023 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 8,200 \\times (82 - 55) = 239,112 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 850
+  },
+  {
+    "text": "For a cooling coil with 8,300 cfm of airflow, the entering moisture ratio is 0.0150 lb/lb and the leaving moisture ratio is 0.0095 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "220,946 Btuh",
+      "176,757 Btuh",
+      "265,135 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 8,300 \\times (0.0150 - 0.0095) = 220,946 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 851
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 244,944 Btuh and the latent cooling capacity is 243,936 Btuh.",
+    "options": [
+      "0.401",
+      "0.501",
+      "0.601"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 852
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 370,260 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.489 gpm",
+      "0.698 gpm",
+      "0.908 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{370,260}{1061} = 348.97 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.698 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 853
+  },
+  {
+    "text": "A cooling coil processes 8,600 cfm of air. The entering dry bulb temperature is 81 F and the leaving dry bulb is 56 F. Calculate the sensible cooling capacity of this coil.",
+    "options": [
+      "208,980 Btuh",
+      "232,200 Btuh",
+      "255,420 Btuh"
+    ],
+    "answer": "B",
+    "explanation": "** Sensible heat formula: $Q_s = 1.08 \\times CFM \\times \\Delta T$. $Q_s = 1.08 \\times 8,600 \\times (81 - 56) = 232,200 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 854
+  },
+  {
+    "text": "For a cooling coil with 8,700 cfm of airflow, the entering moisture ratio is 0.0190 lb/lb and the leaving moisture ratio is 0.0090 lb/lb. Find the latent heat removal capacity.",
+    "options": [
+      "421,080 Btuh",
+      "336,864 Btuh",
+      "505,296 Btuh"
+    ],
+    "answer": "A",
+    "explanation": "** Latent heat formula: $Q_l = 4840 \\times CFM \\times \\Delta W$. $Q_l = 4840 \\times 8,700 \\times (0.0190 - 0.0090) = 421,080 \\text{ Btuh}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 855
+  },
+  {
+    "text": "Calculate the Sensible Heat Ratio (SHR) of a system where the sensible cooling capacity is 266,112 Btuh and the latent cooling capacity is 447,216 Btuh.",
+    "options": [
+      "0.298",
+      "0.373",
+      "0.448"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 856
+  },
+  {
+    "text": "A dehumidifying cooling coil extracts latent heat of 473,836 Btuh from an airstream. Estimate the rate of water condensation forming on the coil in gallons per minute (gpm).",
+    "options": [
+      "0.625 gpm",
+      "0.894 gpm",
+      "1.162 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation rate (lb/hr) $= \\frac{Q_l}{1061 \\text{ Btu/lb}} = \\frac{473,836}{1061} = 446.59 \\text{ lb/hr}$. In gpm: $GPM = \\frac{lb/hr}{8.33 \\times 60} = 0.894 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Sensible & Latent Heat Balances",
+    "id": 857
+  },
+  {
+    "text": "During a post-installation commissioning check of an end suction pump, the technician notes that the pump is delivering only 50% of its design flow and 50% of its design head. The motor is running and rotation direction on the casing arrow matches the motor fan, but the impeller is actually running in backward rotation. What is the characteristic effect of backward impeller rotation on a centrifugal pump?",
+    "options": [
+      "Water flows backward from the discharge pipe into the suction pipe.",
+      "The pump still discharges water in the correct direction but at roughly 50-60% of rated flow and head, with significantly reduced motor amp draw.",
+      "The pump casing instantly overpressurizes, causing the relief valve to trip."
+    ],
+    "answer": "B",
+    "explanation": "** A centrifugal pump with a backward-running impeller still pushes water out of the discharge port due to centrifugal force, but the fluid dynamics of the blades are highly inefficient, resulting in a drop to ~50-60% of design flow/head, and a corresponding drop in motor load (amps).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 858
+  },
+  {
+    "text": "A centrifugal pump has a 10.5 inch impeller and delivers 210 gpm at design RPM. If the impeller is trimmed to 10.0 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "160.0 gpm",
+      "200.0 gpm",
+      "240.0 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 210 \\times \\frac{10.0}{10.5} = 200.0 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 859
+  },
+  {
+    "text": "A centrifugal pump with a 11.00 inch impeller develops 84 ft of head at design RPM. If the impeller is trimmed to 10.25 inches, what is the new developed head?",
+    "options": [
+      "72.9 ft",
+      "58.3 ft",
+      "87.5 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 84 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 72.9 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 860
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 430 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (215.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 861
+  },
+  {
+    "text": "A supply fan is running at its design speed (RPM) but is delivering 15% less airflow than design, and the measured static pressure is also low. An inspection reveals a sharp 90-degree elbow directly at the fan outlet. This aerodynamic penalty is known as:",
+    "options": [
+      "Velocity pressure head conversion loss.",
+      "System Effect, which imposes an unmeasurable static pressure loss that must be estimated from AMCA publication charts.",
+      "Pulley slip friction."
+    ],
+    "answer": "B",
+    "explanation": "** System Effect is a loss in fan performance resulting from turbulent, non-uniform airflow entering or leaving the fan. It cannot be measured directly in the field but must be estimated as a static pressure penalty added to the system curve calculations.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 862
+  },
+  {
+    "text": "During a post-installation commissioning check of an end suction pump, the technician notes that the pump is delivering only 55% of its design flow and 50% of its design head. The motor is running and rotation direction on the casing arrow matches the motor fan, but the impeller is actually running in backward rotation. What is the characteristic effect of backward impeller rotation on a centrifugal pump?",
+    "options": [
+      "Water flows backward from the discharge pipe into the suction pipe.",
+      "The pump still discharges water in the correct direction but at roughly 50-60% of rated flow and head, with significantly reduced motor amp draw.",
+      "The pump casing instantly overpressurizes, causing the relief valve to trip."
+    ],
+    "answer": "B",
+    "explanation": "** A centrifugal pump with a backward-running impeller still pushes water out of the discharge port due to centrifugal force, but the fluid dynamics of the blades are highly inefficient, resulting in a drop to ~50-60% of design flow/head, and a corresponding drop in motor load (amps).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 863
+  },
+  {
+    "text": "A centrifugal pump has a 10.0 inch impeller and delivers 260 gpm at design RPM. If the impeller is trimmed to 9.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "197.6 gpm",
+      "247.0 gpm",
+      "296.4 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 260 \\times \\frac{9.5}{10.0} = 247.0 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 864
+  },
+  {
+    "text": "A centrifugal pump with a 11.50 inch impeller develops 94 ft of head at design RPM. If the impeller is trimmed to 10.75 inches, what is the new developed head?",
+    "options": [
+      "82.1 ft",
+      "65.7 ft",
+      "98.6 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 94 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 82.1 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 865
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 480 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (240.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 866
+  },
+  {
+    "text": "A centrifugal pump has a 11.0 inch impeller and delivers 310 gpm at design RPM. If the impeller is trimmed to 10.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "236.7 gpm",
+      "295.9 gpm",
+      "355.1 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 310 \\times \\frac{10.5}{11.0} = 295.9 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 867
+  },
+  {
+    "text": "A centrifugal pump with a 12.00 inch impeller develops 104 ft of head at design RPM. If the impeller is trimmed to 11.25 inches, what is the new developed head?",
+    "options": [
+      "91.4 ft",
+      "73.1 ft",
+      "109.7 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 104 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 91.4 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 868
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 530 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (265.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 869
+  },
+  {
+    "text": "A centrifugal pump has a 10.5 inch impeller and delivers 360 gpm at design RPM. If the impeller is trimmed to 10.0 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "274.3 gpm",
+      "342.9 gpm",
+      "411.4 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 360 \\times \\frac{10.0}{10.5} = 342.9 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 870
+  },
+  {
+    "text": "A centrifugal pump with a 11.00 inch impeller develops 114 ft of head at design RPM. If the impeller is trimmed to 10.25 inches, what is the new developed head?",
+    "options": [
+      "99.0 ft",
+      "79.2 ft",
+      "118.8 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 114 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 99.0 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 871
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 580 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (290.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 872
+  },
+  {
+    "text": "A centrifugal pump has a 10.0 inch impeller and delivers 410 gpm at design RPM. If the impeller is trimmed to 9.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "311.6 gpm",
+      "389.5 gpm",
+      "467.4 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 410 \\times \\frac{9.5}{10.0} = 389.5 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 873
+  },
+  {
+    "text": "A centrifugal pump with a 11.50 inch impeller develops 124 ft of head at design RPM. If the impeller is trimmed to 10.75 inches, what is the new developed head?",
+    "options": [
+      "108.4 ft",
+      "86.7 ft",
+      "130.0 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 124 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 108.4 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 874
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 630 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (315.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 875
+  },
+  {
+    "text": "A centrifugal pump has a 11.0 inch impeller and delivers 460 gpm at design RPM. If the impeller is trimmed to 10.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "351.3 gpm",
+      "439.1 gpm",
+      "526.9 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 460 \\times \\frac{10.5}{11.0} = 439.1 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 876
+  },
+  {
+    "text": "A centrifugal pump with a 12.00 inch impeller develops 134 ft of head at design RPM. If the impeller is trimmed to 11.25 inches, what is the new developed head?",
+    "options": [
+      "117.8 ft",
+      "94.2 ft",
+      "141.3 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 134 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 117.8 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 877
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 680 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (340.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 878
+  },
+  {
+    "text": "A centrifugal pump has a 10.5 inch impeller and delivers 510 gpm at design RPM. If the impeller is trimmed to 10.0 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "388.6 gpm",
+      "485.7 gpm",
+      "582.9 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 510 \\times \\frac{10.0}{10.5} = 485.7 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 879
+  },
+  {
+    "text": "A centrifugal pump with a 11.00 inch impeller develops 144 ft of head at design RPM. If the impeller is trimmed to 10.25 inches, what is the new developed head?",
+    "options": [
+      "125.0 ft",
+      "100.0 ft",
+      "150.0 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 144 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 125.0 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 880
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 730 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (365.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 881
+  },
+  {
+    "text": "A centrifugal pump has a 10.0 inch impeller and delivers 560 gpm at design RPM. If the impeller is trimmed to 9.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "425.6 gpm",
+      "532.0 gpm",
+      "638.4 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 560 \\times \\frac{9.5}{10.0} = 532.0 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 882
+  },
+  {
+    "text": "A centrifugal pump with a 11.50 inch impeller develops 154 ft of head at design RPM. If the impeller is trimmed to 10.75 inches, what is the new developed head?",
+    "options": [
+      "134.6 ft",
+      "107.7 ft",
+      "161.5 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 154 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 134.6 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 883
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 780 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (390.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 884
+  },
+  {
+    "text": "A centrifugal pump has a 11.0 inch impeller and delivers 610 gpm at design RPM. If the impeller is trimmed to 10.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "465.8 gpm",
+      "582.3 gpm",
+      "698.7 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 610 \\times \\frac{10.5}{11.0} = 582.3 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 885
+  },
+  {
+    "text": "A centrifugal pump with a 12.00 inch impeller develops 164 ft of head at design RPM. If the impeller is trimmed to 11.25 inches, what is the new developed head?",
+    "options": [
+      "144.1 ft",
+      "115.3 ft",
+      "173.0 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 164 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 144.1 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 886
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 830 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (415.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 887
+  },
+  {
+    "text": "A centrifugal pump has a 10.5 inch impeller and delivers 660 gpm at design RPM. If the impeller is trimmed to 10.0 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "502.9 gpm",
+      "628.6 gpm",
+      "754.3 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 660 \\times \\frac{10.0}{10.5} = 628.6 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 888
+  },
+  {
+    "text": "A centrifugal pump with a 11.00 inch impeller develops 174 ft of head at design RPM. If the impeller is trimmed to 10.25 inches, what is the new developed head?",
+    "options": [
+      "151.1 ft",
+      "120.9 ft",
+      "181.3 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 174 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 151.1 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 889
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 880 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (440.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 890
+  },
+  {
+    "text": "A centrifugal pump has a 10.0 inch impeller and delivers 710 gpm at design RPM. If the impeller is trimmed to 9.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "539.6 gpm",
+      "674.5 gpm",
+      "809.4 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 710 \\times \\frac{9.5}{10.0} = 674.5 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 891
+  },
+  {
+    "text": "A centrifugal pump with a 11.50 inch impeller develops 184 ft of head at design RPM. If the impeller is trimmed to 10.75 inches, what is the new developed head?",
+    "options": [
+      "160.8 ft",
+      "128.6 ft",
+      "192.9 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 184 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 160.8 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 892
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 930 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (465.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 893
+  },
+  {
+    "text": "A centrifugal pump has a 11.0 inch impeller and delivers 760 gpm at design RPM. If the impeller is trimmed to 10.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "580.4 gpm",
+      "725.5 gpm",
+      "870.5 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 760 \\times \\frac{10.5}{11.0} = 725.5 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 894
+  },
+  {
+    "text": "A centrifugal pump with a 12.00 inch impeller develops 194 ft of head at design RPM. If the impeller is trimmed to 11.25 inches, what is the new developed head?",
+    "options": [
+      "170.5 ft",
+      "136.4 ft",
+      "204.6 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 194 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 170.5 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 895
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 980 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (490.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 896
+  },
+  {
+    "text": "A centrifugal pump has a 10.5 inch impeller and delivers 810 gpm at design RPM. If the impeller is trimmed to 10.0 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "617.1 gpm",
+      "771.4 gpm",
+      "925.7 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 810 \\times \\frac{10.0}{10.5} = 771.4 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 897
+  },
+  {
+    "text": "A centrifugal pump with a 11.00 inch impeller develops 204 ft of head at design RPM. If the impeller is trimmed to 10.25 inches, what is the new developed head?",
+    "options": [
+      "177.1 ft",
+      "141.7 ft",
+      "212.6 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 204 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 177.1 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 898
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 1030 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (515.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 899
+  },
+  {
+    "text": "A centrifugal pump has a 10.0 inch impeller and delivers 860 gpm at design RPM. If the impeller is trimmed to 9.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "653.6 gpm",
+      "817.0 gpm",
+      "980.4 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 860 \\times \\frac{9.5}{10.0} = 817.0 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 900
+  },
+  {
+    "text": "A centrifugal pump with a 11.50 inch impeller develops 214 ft of head at design RPM. If the impeller is trimmed to 10.75 inches, what is the new developed head?",
+    "options": [
+      "187.0 ft",
+      "149.6 ft",
+      "224.4 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 214 \\times \\left(\\frac{10.75}{11.50}\\right)^2 = 187.0 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 901
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 1080 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (540.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 902
+  },
+  {
+    "text": "A centrifugal pump has a 11.0 inch impeller and delivers 910 gpm at design RPM. If the impeller is trimmed to 10.5 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "694.9 gpm",
+      "868.6 gpm",
+      "1042.4 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 910 \\times \\frac{10.5}{11.0} = 868.6 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 903
+  },
+  {
+    "text": "A centrifugal pump with a 12.00 inch impeller develops 224 ft of head at design RPM. If the impeller is trimmed to 11.25 inches, what is the new developed head?",
+    "options": [
+      "196.9 ft",
+      "157.5 ft",
+      "236.2 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 224 \\times \\left(\\frac{11.25}{12.00}\\right)^2 = 196.9 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 904
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 1130 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (565.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 905
+  },
+  {
+    "text": "A centrifugal pump has a 10.5 inch impeller and delivers 960 gpm at design RPM. If the impeller is trimmed to 10.0 inches, estimate the new flow rate according to the pump affinity laws.",
+    "options": [
+      "731.4 gpm",
+      "914.3 gpm",
+      "1097.1 gpm"
+    ],
+    "answer": "B",
+    "explanation": "** According to Pump Affinity Laws for impeller trims: $GPM_2 = GPM_1 \\times \\frac{D_2}{D_1} = 960 \\times \\frac{10.0}{10.5} = 914.3 \\text{ gpm}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 906
+  },
+  {
+    "text": "A centrifugal pump with a 11.00 inch impeller develops 234 ft of head at design RPM. If the impeller is trimmed to 10.25 inches, what is the new developed head?",
+    "options": [
+      "203.2 ft",
+      "162.5 ft",
+      "243.8 ft"
+    ],
+    "answer": "A",
+    "explanation": "** Pump Affinity Laws state that head varies with the square of the impeller diameter: $Head_2 = Head_1 \\times \\left(\\frac{D_2}{D_1}\\right)^2 = 234 \\times \\left(\\frac{10.25}{11.00}\\right)^2 = 203.2 \\text{ ft}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 907
+  },
+  {
+    "text": "Two identical pumps operate in parallel to deliver a total flow of 1180 gpm. If one pump drops out or is turned off, what happens to the system flow rate?",
+    "options": [
+      "The flow rate drops to exactly half (590.0 gpm).",
+      "The flow rate drops to approximately 65-70% of parallel capacity because the system operating point shifts down the single-pump curve.",
+      "The remaining pump enters a high-head shutoff condition and ceases flow."
+    ],
+    "answer": "B",
+    "explanation": "** In parallel pump systems, when one pump stops, the operating point shifts to the intersection of the single-pump H-Q curve and the system curve. Because system resistance drops at lower flow, the remaining pump operates at a higher flow rate than its individual parallel share, delivering ~65-70% of the total flow.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Fan & Pump Curve Diagnostics",
+    "id": 908
+  },
+  {
+    "text": "A three-phase motor disconnect is measured under load with the following phase-to-phase voltages: Line 1 = 460 V, Line 2 = 452 V, and Line 3 = 468 V. Calculate the percentage of voltage unbalance.",
+    "options": [
+      "1.39%",
+      "1.74%",
+      "2.09%"
+    ],
+    "answer": "B",
+    "explanation": "** Average Voltage $= \\frac{460 + 452 + 468}{3} = 460.0 \\text{ V}$. Max deviation from average $= 8.0 \\text{ V}$. Voltage unbalance $(\\%) = \\frac{Max\\ Deviation}{Average} \\times 100 = \\frac{8.0}{460.0} \\times 100 = 1.74\\%$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 909
+  },
+  {
+    "text": "A DDC VAV supply fan VFD speed oscillates rapidly (hunts) between 30Hz and 60Hz, causing unstable duct static pressure. Which action should the TAB supervisor recommend to resolve this loop instability?",
+    "options": [
+      "Increase the proportional gain ($P$) and decrease the integral time ($I$) of the loop controller.",
+      "Adjust the PID loop parameters by widening the proportional band (reducing proportional gain) and increasing the integral response time.",
+      "Install a larger static pressure transmitter with a wider range."
+    ],
+    "answer": "B",
+    "explanation": "** Loop oscillation or hunting is caused by an overactive control loop. To stabilize it, the proportional gain must be decreased (widening the proportional band) and the integral action slowed down (increasing integral time).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 910
+  },
+  {
+    "text": "Where should a VAV system's duct static pressure sensor be physically installed to achieve stable control and minimize fan power consumption?",
+    "options": [
+      "In the fan discharge plenum to measure the maximum static pressure.",
+      "Approximately 2/3 to 3/4 of the way down the main duct trunk, upstream of the first major branch.",
+      "At the inlet of the return air plenum to measure building pressure."
+    ],
+    "answer": "B",
+    "explanation": "** Installing the static pressure sensor 2/3 to 3/4 down the main trunk ensures that the furthest VAV terminal box has sufficient pressure to modulate without the fan running at excessively high discharge pressures.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 911
+  },
+  {
+    "text": "A critical laboratory containment room is designed to maintain a negative pressure relative to the corridor. Under NEBB standards, what is the allowable flow tolerance for the exhaust air system serving this containment space?",
+    "options": [
+      "\\pm 10% of design flow",
+      "+10% / -0% of design flow (positive tolerance only)",
+      "10% / +0% of design flow (negative tolerance only)"
+    ],
+    "answer": "B",
+    "explanation": "** For spaces requiring negative containment (like hazardous labs or bio-safety cabinets), the exhaust airflow must be balanced to a positive tolerance (+10% / -0%) to guarantee containment is never compromised.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 912
+  },
+  {
+    "text": "A duct system with a surface area of 1,200 sq ft is tested at a static pressure of 4.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "70.9 cfm",
+      "88.6 cfm",
+      "106.4 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 4.0^{0.65} = 7.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 88.6$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 913
+  },
+  {
+    "text": "A duct system with a surface area of 1,450 sq ft is tested at a static pressure of 3.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "94.8 cfm",
+      "118.5 cfm",
+      "142.1 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 3.0^{0.65} = 8.169$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 118.5$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 914
+  },
+  {
+    "text": "A duct system with a surface area of 1,700 sq ft is tested at a static pressure of 5.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "116.1 cfm",
+      "145.2 cfm",
+      "174.2 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 5.0^{0.65} = 8.540$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 145.2$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 915
+  },
+  {
+    "text": "A duct system with a surface area of 1,950 sq ft is tested at a static pressure of 4.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "153.6 cfm",
+      "192.1 cfm",
+      "230.5 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 4.0^{0.65} = 9.849$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 192.1$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 916
+  },
+  {
+    "text": "A duct system with a surface area of 2,200 sq ft is tested at a static pressure of 3.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "107.8 cfm",
+      "134.8 cfm",
+      "161.8 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 3.0^{0.65} = 6.127$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 134.8$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 917
+  },
+  {
+    "text": "A duct system with a surface area of 2,450 sq ft is tested at a static pressure of 5.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "223.2 cfm",
+      "279.0 cfm",
+      "334.8 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 5.0^{0.65} = 11.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 279.0$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 918
+  },
+  {
+    "text": "A duct system with a surface area of 2,700 sq ft is tested at a static pressure of 4.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "159.6 cfm",
+      "199.4 cfm",
+      "239.3 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 4.0^{0.65} = 7.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 199.4$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 919
+  },
+  {
+    "text": "A duct system with a surface area of 2,950 sq ft is tested at a static pressure of 3.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "192.8 cfm",
+      "241.0 cfm",
+      "289.2 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 3.0^{0.65} = 8.169$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 241.0$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 920
+  },
+  {
+    "text": "A duct system with a surface area of 3,200 sq ft is tested at a static pressure of 5.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "218.6 cfm",
+      "273.3 cfm",
+      "327.9 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 5.0^{0.65} = 8.540$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 273.3$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 921
+  },
+  {
+    "text": "A duct system with a surface area of 3,450 sq ft is tested at a static pressure of 4.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "271.8 cfm",
+      "339.8 cfm",
+      "407.8 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 4.0^{0.65} = 9.849$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 339.8$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 922
+  },
+  {
+    "text": "A duct system with a surface area of 3,700 sq ft is tested at a static pressure of 3.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "181.4 cfm",
+      "226.7 cfm",
+      "272.0 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 3.0^{0.65} = 6.127$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 226.7$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 923
+  },
+  {
+    "text": "A duct system with a surface area of 3,950 sq ft is tested at a static pressure of 5.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "359.8 cfm",
+      "449.8 cfm",
+      "539.7 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 5.0^{0.65} = 11.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 449.8$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 924
+  },
+  {
+    "text": "A duct system with a surface area of 4,200 sq ft is tested at a static pressure of 4.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "248.2 cfm",
+      "310.2 cfm",
+      "372.3 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 4.0^{0.65} = 7.387$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 310.2$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 925
+  },
+  {
+    "text": "A duct system with a surface area of 4,450 sq ft is tested at a static pressure of 3.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "290.8 cfm",
+      "363.5 cfm",
+      "436.2 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 3.0^{0.65} = 8.169$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 363.5$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 926
+  },
+  {
+    "text": "A duct system with a surface area of 4,700 sq ft is tested at a static pressure of 5.0 in.w.g. If the specified leakage class is CL = 3, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "321.1 cfm",
+      "401.4 cfm",
+      "481.6 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 3 \\times 5.0^{0.65} = 8.540$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 401.4$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 927
+  },
+  {
+    "text": "A duct system with a surface area of 4,950 sq ft is tested at a static pressure of 4.0 in.w.g. If the specified leakage class is CL = 4, calculate the maximum allowable leakage rate in cfm.",
+    "options": [
+      "390.0 cfm",
+      "487.5 cfm",
+      "585.0 cfm"
+    ],
+    "answer": "B",
+    "explanation": "** Allowable leakage is calculated using: $F = C_L \\times P^{0.65}$, where $F$ is leakage in cfm/100 sq ft of duct surface. Here, $F = 4 \\times 4.0^{0.65} = 9.849$ cfm/100 sq ft. Allowable leakage $= F \\times \\frac{Area}{100} = 487.5$ cfm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set10.md",
+    "topic": "Advanced TAB Field Troubleshooting",
+    "id": 928
+  },
+  {
+    "text": "Duct system resistance to flow varies approximately as:",
+    "options": [
+      "Velocity pressure cubed - $VP^3$",
+      "Total pressure squared - $TP^2$",
+      "Flow rate squared - $Q^2$",
+      "Half velocity squared - $(V/2)^2$"
+    ],
+    "answer": "C",
+    "explanation": "** In fluid dynamics, pressure drop (system resistance) varies with the square of the flow rate. The relationship is expressed as: $SP_2 = SP_1 \\times (Q_2 / Q_1)^2$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 929
+  },
+  {
+    "text": "A gauge pressure of 14.7 psi (101.3 kPa) is equal to what absolute pressure?",
+    "options": [
+      "21.4 psia (145 kPa a)",
+      "0 psia (0 kPa a)",
+      "29.4 psia (202 kPa a)",
+      "14.7 psia (101 kPa a)"
+    ],
+    "answer": "C",
+    "explanation": "** Absolute pressure is gauge pressure plus atmospheric pressure. Under standard atmospheric conditions, $P_{abs} = P_{gauge} + P_{atm} = 14.7 \\text{ psi} + 14.7 \\text{ psi} = 29.4$ psia.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 930
+  },
+  {
+    "text": "If the static pressure (SP) in an air duct is 2.1 in.w.g. (525 Pa) and the total pressure (TP) is 2.6 in.w.g. (650 Pa), what is the velocity pressure (VP)?",
+    "options": [
+      "4.7 in.w.g. (1175 Pa)",
+      "0.5 in.w.g. (125 Pa)",
+      "0.5 in.w.g. (-125 Pa)",
+      "3.1 in.w.g. (775 Pa)"
+    ],
+    "answer": "B",
+    "explanation": "** Total pressure is the sum of static pressure and velocity pressure: $TP = SP + VP$. Therefore, $VP = TP - SP = 2.6 \\text{ in.w.g.} - 2.1 \\text{ in.w.g.} = 0.5$ in.w.g. (or $125$ Pa).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 931
+  },
+  {
+    "text": "Water at 45 F (7.2 C) is carried by uninsulated pipes through a conditioned space maintained at 70 F (21.1 C). What is the approximate maximum relative humidity (RH) that the space could have without condensation forming on the pipe surfaces?",
+    "options": [
+      "30%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "answer": "B",
+    "explanation": "** Condensation forms when the pipe surface temperature (45 F) is at or below the dew point of the surrounding air. To prevent condensation, the space dew point must remain below 45 F. At 70 F dry bulb:",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 932
+  },
+  {
+    "text": "Two airstreams are mixed: 6,000 cfm @ 75 F DB and 50% RH, and 2,000 cfm @ 95 F DB and 78 F WB. Using a psychrometric chart, find the final mixed air conditions.",
+    "options": [
+      "8,000 cfm @ 85 F DB, 75 F WB, and 63 F DP",
+      "8,000 cfm @ 80 F DB, 60 F DP, and density = 13.0 lb/cu ft",
+      "8,000 cfm @ 60% RH, 85 gr. of moisture per lb. of dry air",
+      "8,000 cfm @ 80 F DB, 67 F WB, and 50% RH"
+    ],
+    "answer": "D",
+    "explanation": "** Calculate the mixed dry bulb temperature using a weighted average: $t_{mix} = \\frac{(6000 \\times 75) + (2000 \\times 95)}{8000} = 80 \\text{ F DB}$. Checking the psychrometric chart for the intersection of the mixing line at 80 F DB yields approximately 67 F WB and 50% RH.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 933
+  },
+  {
+    "text": "An airstream of 1,000 cfm is heated by a coil from 70 F to 98 F with water entering at 140 F. If the water temperature drop (\\Delta t) is 20 F, what is the water flow through the coil?",
+    "options": [
+      "2.8 gpm",
+      "3.0 gpm",
+      "1.4 gpm",
+      "3.0 gpm"
+    ],
+    "answer": "B",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 934
+  },
+  {
+    "text": "A 20 x 40 foot wall has a U-factor of 0.88. The temperature difference is 72 F. Find the amount of heat saved if insulation with R = 19 is added.",
+    "options": [
+      "11,122 Btuh",
+      "28,700 Btuh",
+      "47,866 Btuh",
+      "61,333 Btuh"
+    ],
+    "answer": "C",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 935
+  },
+  {
+    "text": "The total pressure of a 30 x 24 inch duct is 2.6 in.w.g. (650 Pa) and the static pressure (SP) is 2.0 in.w.g. (500 Pa). Find the airflow.",
+    "options": [
+      "4,960 cfm (2280 L/s)",
+      "8,110 cfm (3730 L/s)",
+      "12,270 cfm (5650 L/s)",
+      "15,510 cfm (7100 L/s)"
+    ],
+    "answer": "D",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 936
+  },
+  {
+    "text": "With a water flow of 100 gpm (6.3 L/s) and piping component pressure drops of 20 psi (140 kPa), 15 psi (105 kPa) and 10 psi (70 kPa), find the individual pressure drops if the flow is increased to 110 gpm (6.93 L/s).",
+    "options": [
+      "22.2, 17.7, 11.1 psi (158, 106, 72 kPa)",
+      "24.2, 18.2, 12.1 psi (169, 127, 85 kPa)",
+      "30.0, 22.5, 15.0 psi (211, 158, 423 kPa)",
+      "Cannot be calculated from the information given"
+    ],
+    "answer": "B",
+    "explanation": "** Hydronic pressure drop varies with the square of the flow rate: $\\Delta P_2 = \\Delta P_1 \\times (Q_2 / Q_1)^2$. The ratio is $(110 / 100)^2 = 1.21$.\n- $20 \\times 1.21 = 24.2$ psi.\n- $15 \\times 1.21 = 18.15 \\approx 18.2$ psi.\n- $10 \\times 1.21 = 12.1$ psi.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 937
+  },
+  {
+    "text": "A 30 gallon (0.114 m^3) compressed air tank is at 100 psi (690 kPa) gauge pressure and 68 F (20 C). Find the gauge pressure in the tank if it is heated to 122 F (50 C).",
+    "options": [
+      "100 psi (690 kPa)",
+      "106 psi (731 kPa)",
+      "111.7 psi (771 kPa)",
+      "179.4 psi (1235 kPa)"
+    ],
+    "answer": "C",
+    "explanation": "** Use the Ideal Gas Law for constant volume: $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$ using absolute values.\n- $P_1 = 100 \\text{ psig} + 14.7 = 114.7$ psia.\n- $T_1 = 68 \\text{ F} + 460 = 528$ R.\n- $T_2 = 122 \\text{ F} + 460 = 582$ R.\n- $P_2 = 114.7 \\times \\frac{582}{528} = 126.4$ psia.\n- Gauge pressure $P_{2,gauge} = 126.4 - 14.7 = 111.7$ psig.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 938
+  },
+  {
+    "text": "Find the enthalpy for saturated air at 68 F (20 C) under standard atmospheric conditions.",
+    "options": [
+      "32.4 Btu/lb (57.6 kJ/kg)",
+      "35.8 Btu/lb (63.6 kJ/kg)",
+      "41.1 Btu/lb (73.2 kJ/kg)",
+      "62.7 Btu/lb (111.6 kJ/kg)"
+    ],
+    "answer": "A",
+    "explanation": "** According to standard psychrometric tables, the enthalpy of saturated air at 68 F (100% RH) is 32.4 Btu/lb of dry air.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 939
+  },
+  {
+    "text": "A cooling duct reheat coil transfers which type of heat to the air?",
+    "options": [
+      "Sensible heat",
+      "Latent heat",
+      "Total heat",
+      "All of the above"
+    ],
+    "answer": "A",
+    "explanation": "** Reheat coils only raise the dry-bulb temperature of the air without adding or removing moisture. Since the humidity ratio remains constant, this is purely a sensible heating process.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 940
+  },
+  {
+    "text": "The transfer of heat in a cooling coil where the air and water temperatures follow parallel curves (maintaining a constant temperature difference) is characteristic of:",
+    "options": [
+      "Parallel flow",
+      "Counterflow",
+      "Cross-flow",
+      "None of the above"
+    ],
+    "answer": "B",
+    "explanation": "** In a counterflow configuration, the air and water flow in opposite directions. This allows the temperature profile curves to run parallel to each other, maintaining a steady heat transfer coefficient along the coil.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 941
+  },
+  {
+    "text": "According to standard NEBB engineering references, a 30 mile per hour (48 km/h) wind at an outdoor temperature of -10 F (-23.3 C) results in an equivalent wind chill temperature of:",
+    "options": [
+      "21 F (-29 C)",
+      "30 F (-34 C)",
+      "64 F (-53 C)",
+      "83 F (-64 C)"
+    ],
+    "answer": "C",
+    "explanation": "** In the classic wind chill table used in the study course, the wind chill temperature for 30 mph at -10 F is -64 F (approx. -53 C).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 942
+  },
+  {
+    "text": "When balancing dampers are partially closed during TAB work to throttle airflow, the operating point of the system:",
+    "options": [
+      "Moves up the system curve",
+      "Moves down the system curve",
+      "Moves up the fan curve (to the left)",
+      "Moves down the fan curve (to the right)"
+    ],
+    "answer": "C",
+    "explanation": "** Throttling dampers increases system resistance, making the system curve steeper. The fan must operate against higher static pressure at a lower flow rate, which corresponds to moving up and to the left along the fan's characteristic H-Q curve.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 943
+  },
+  {
+    "text": "The volumetric airflow rate (CFM) of a centrifugal fan will not change if the density of the air changes (assuming RPM remains constant).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "A",
+    "explanation": "** Centrifugal fans are constant-volume machines. They move the same volume of air (CFM) regardless of density. However, the static pressure developed and the brake horsepower required will change in direct proportion to the air density.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 944
+  },
+  {
+    "text": "A backward inclined centrifugal fan wheel rotates about how many times the speed of a same-sized forward curved fan wheel to deliver the same capacity?",
+    "options": [
+      "1.25",
+      "1.50",
+      "1.75",
+      "2.00"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 945
+  },
+  {
+    "text": "According to the Fan Laws, the brake horsepower (BHP) required by a fan varies in what relationship to the fan wheel rotational speed (RPM)?",
+    "options": [
+      "Directly as the RPM",
+      "As the square of the RPM",
+      "As the cube of the RPM",
+      "Inversely as the RPM"
+    ],
+    "answer": "C",
+    "explanation": "** The third fan law states that power is proportional to the cube of the speed ratio: $BHP_2 = BHP_1 \\times (RPM_2 / RPM_1)^3$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 946
+  },
+  {
+    "text": "Which type of centrifugal fan is referred to as a \"non-overloading\" fan?",
+    "options": [
+      "Forward curved",
+      "Backward inclined",
+      "Propeller",
+      "Radial"
+    ],
+    "answer": "B",
+    "explanation": "** The power curve of a backward inclined (BI) fan reaches a peak near the middle of its operating range and then falls off at higher flow rates. This prevents the motor from overloading even if the system static pressure drops to zero.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 947
+  },
+  {
+    "text": "Reynolds numbers are included in duct design reference tables to correct duct fitting loss coefficients.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "A",
+    "explanation": "** Loss coefficients (C-factors) for duct fittings vary with velocity and fluid viscosity. The Reynolds number is used to correct these coefficients for non-standard velocities and air densities.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 948
+  },
+  {
+    "text": "Complete Form TAB 9-98 for a 46\" x 22\" duct using the following velocity traverse readings: - Row 1: 200, 520, 730, 835, 940, 1045, 1150 - Row 2: 630, 750, 835, 920, 1000, 1080, 1160, 1230 - Row 3: 880, 980, 960, 1088, 1160, 1210, 1275, 1310 - Row 4: 1190, 1220, 1260, 1290, 1320, 1350, 1390, 1390 What is the average velocity to be reported?",
+    "options": [
+      "630 fpm",
+      "1003 fpm",
+      "1210 fpm",
+      "1390 fpm"
+    ],
+    "answer": "B",
+    "explanation": "** Summing all the traverse readings in the grid and dividing by the total number of points (31 active readings, accounting for the first row starting at position 2 with 200 and having a low or zero reading at position 1) yields an average velocity of 1,003 FPM.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 949
+  },
+  {
+    "text": "Based on the duct traverse in Question 21, what is the calculated volumetric airflow in the 46\" x 22\" duct?",
+    "options": [
+      "5,870 cfm",
+      "6,320 cfm",
+      "7,049 cfm",
+      "7,850 cfm"
+    ],
+    "answer": "C",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 950
+  },
+  {
+    "text": "A volume of 10,000 cfm of standard air flows through a rectangular duct with an aspect ratio of 3 to 1. If the friction loss is 0.16 in.w.g. per 100 feet, what is the size of the duct?",
+    "options": [
+      "54\" x 18\"",
+      "50\" x 16\"",
+      "45\" x 15\"",
+      "37.5\" x 12.5\""
+    ],
+    "answer": "C",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 951
+  },
+  {
+    "text": "What is the velocity pressure (VP) in the 45\" x 15\" duct described in Question 23?",
+    "options": [
+      "0.20 in.w.g.",
+      "0.26 in.w.g.",
+      "0.51 in.w.g.",
+      "0.71 in.w.g."
+    ],
+    "answer": "B",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 952
+  },
+  {
+    "text": "If the duct in Question 24 is 200 feet long, what is the total static pressure (SP) loss due to friction?",
+    "options": [
+      "0.52 in.w.g.",
+      "0.32 in.w.g.",
+      "0.16 in.w.g.",
+      "0.08 in.w.g."
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 953
+  },
+  {
+    "text": "An airfoil blade centrifugal fan and a forward curved blade centrifugal fan are operating at the same impeller speed (RPM). The airflow from the airfoil blade fan will be:",
+    "options": [
+      "The same",
+      "Less",
+      "More",
+      "Dependent on motor horsepower only"
+    ],
+    "answer": "B",
+    "explanation": "** At the same RPM, the forward curved fan (which has many smaller, cupped blades) has a much higher flow coefficient and delivers more volume, though it operates at a lower static efficiency compared to the airfoil fan. Thus, the airfoil fan's flow will be less.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 954
+  },
+  {
+    "text": "A 12\" x 12\" ceiling supply diffuser has a design airflow of 400 cfm with a neck area of one square foot and an Ak of 0.46. The average leaving air velocity measured at the face will be:",
+    "options": [
+      "184 fpm",
+      "400 fpm",
+      "870 fpm",
+      "932 fpm"
+    ],
+    "answer": "C",
+    "explanation": "** The terminal velocity formula is: $V = \\frac{CFM}{A_k}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 1",
+    "id": 955
+  },
+  {
+    "text": "A 240 volt primary transformer has 6 equally spaced taps on the secondary side, which has half the number of windings of the primary side. What is the voltage measured between the first and third taps?",
+    "options": [
+      "24 volts",
+      "48 volts",
+      "72 volts",
+      "120 volts"
+    ],
+    "answer": "B",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 956
+  },
+  {
+    "text": "Readings taken from a three-phase motor are: 210 volts, Amp1 = 5.8, Amp2 = 6.3, Amp3 = 6.3, and speed = 1750 rpm. What is the estimated operating brake horsepower (BHP) of this motor?",
+    "options": [
+      "1.24 Bhp (0.93 kW)",
+      "2.15 Bhp (1.60 kW)",
+      "2.99 Bhp (2.24 kW)",
+      "3.50 Bhp (2.63 kW)"
+    ],
+    "answer": "B",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 957
+  },
+  {
+    "text": "A pressure gauge is installed on a water system. If the system pressure must be adjusted to 40.6 in.Hg, what will be the correct reading on the gauge in psi?",
+    "options": [
+      "5 psi",
+      "20 psi",
+      "82.4 psi",
+      "14.7 psi"
+    ],
+    "answer": "B",
+    "explanation": "** Under standard conditions, 1 in.Hg is equivalent to 0.4912 psi.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 958
+  },
+  {
+    "text": "Resistances of 12, 4, and 8 ohms are connected in series in a 120 volt electrical circuit. What is the current flowing through the circuit?",
+    "options": [
+      "100 amps",
+      "24 amps",
+      "5 amps",
+      "1 amp"
+    ],
+    "answer": "C",
+    "explanation": "** In a series circuit, total resistance is the sum of all individual resistances: $R_{total} = 12 + 4 + 8 = 24 \\ \\Omega$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 959
+  },
+  {
+    "text": "A fan with a 10.5 inch pitch diameter pulley is to turn at 720 rpm. Using a 1750 rpm motor, what is the required pitch diameter of the motor pulley?",
+    "options": [
+      "4.32 inches",
+      "4.97 inches",
+      "5.65 inches",
+      "8.10 inches"
+    ],
+    "answer": "A",
+    "explanation": "** Pulley diameters and rotational speeds are inversely proportional: $D_{motor} \\times RPM_{motor} = D_{fan} \\times RPM_{fan}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 960
+  },
+  {
+    "text": "A control valve with a Cv rating of 63 has a design flow rate of 90 gpm. What is the pressure drop across the valve in feet of water (ft.w.g.)?",
+    "options": [
+      "7.7 ft.w.g.",
+      "5.1 ft.w.g.",
+      "4.7 ft.w.g.",
+      "3.3 ft.w.g."
+    ],
+    "answer": "C",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 961
+  },
+  {
+    "text": "A typical hot water coil operating with 50% of its design flow of 220 F water will transfer approximately what percentage of its full heating capacity?",
+    "options": [
+      "50%",
+      "65%",
+      "80%",
+      "90%"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 962
+  },
+  {
+    "text": "A three-way control valve that has one inlet and two outlets is classified as a:",
+    "options": [
+      "Mixing valve",
+      "Diverting valve",
+      "Automatic valve",
+      "Piston valve"
+    ],
+    "answer": "B",
+    "explanation": "** A diverting valve splits a single incoming water stream into two separate outlets (bypass or coil). A mixing valve combines two inlets into one common outlet.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 963
+  },
+  {
+    "text": "What is the length of a 4\" schedule 40 steel pipe that will handle 1,980 pounds per hour of 3.5 psig steam with a pressure drop of 2 psi?",
+    "options": [
+      "100 feet",
+      "400 feet",
+      "4,000 feet",
+      "4,200 feet"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 964
+  },
+  {
+    "text": "A 48\" diameter x 72\" long expansion tank is installed in a system with a total volume of 6,000 gallons. The system starts at 170 F and 30 psig, with the tank 1/3 full of water. If the water temperature increases to 200 F, what will be the approximate gauge pressure? - Specific volume of water at 170 F = 0.01645 cu ft/lb - Specific volume of water at 200 F = 0.01663 cu ft/lb",
+    "options": [
+      "24.0 psig",
+      "30.1 psig",
+      "35.0 psig",
+      "42.3 psig"
+    ],
+    "answer": "D",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 965
+  },
+  {
+    "text": "A pump is rated at 100 gpm at 40 feet of head with standard water (SpGr = 1.0). If the pump is circulating hot water at 240 F (SpGr = 0.95) in a system at a head of 40 ft, what will the flow rate be?",
+    "options": [
+      "Greater than 100 gpm",
+      "100 gpm",
+      "Less than 100 gpm",
+      "Dependent on NPSH only"
+    ],
+    "answer": "B",
+    "explanation": "** A centrifugal pump is a constant-displacement/constant-volume device. It will move the same volumetric flow rate (100 GPM) regardless of water temperature and density, provided the system resistance remains 40 feet of head. (Note: The motor BHP will drop slightly due to lower density).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 966
+  },
+  {
+    "text": "A pump is designed to deliver 50 gpm at a 20 foot head and at 1,750 rpm. If, in the same hydronic system, the pump speed is increased to 3,500 rpm, what flow rate will the pump deliver?",
+    "options": [
+      "200 gpm",
+      "50 gpm",
+      "100 gpm",
+      "Cannot be determined without a system curve"
+    ],
+    "answer": "C",
+    "explanation": "** According to Pump Affinity Laws, flow rate varies directly with rotational speed: $GPM_2 = GPM_1 \\times (RPM_2 / RPM_1) = 50 \\times (3500 / 1750) = 100$ gpm.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 967
+  },
+  {
+    "text": "At the higher speed of 3,500 rpm in Question 39, what head will the pump produce?",
+    "options": [
+      "80 feet",
+      "20 feet",
+      "40 feet",
+      "Dependent on motor horsepower"
+    ],
+    "answer": "A",
+    "explanation": "** According to Pump Affinity Laws, pump head varies with the square of the speed ratio: $Head_2 = Head_1 \\times (RPM_2 / RPM_1)^2 = 20 \\times (3500 / 1750)^2 = 20 \\times 4 = 80$ feet.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 968
+  },
+  {
+    "text": "A chilled water coil has a rated pressure drop of 10 feet of head at a flow rate of 120 gpm. Under standard conditions, the measured pressure differential across the coil is 6.5 psi. What is the actual water flow rate?",
+    "options": [
+      "96.8 gpm",
+      "147 gpm",
+      "63.7 gpm",
+      "Dependent on airflow through the coil"
+    ],
+    "answer": "B",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 969
+  },
+  {
+    "text": "Calculate the system curve pressure requirements at flows of 100, 200, 300, and 400 gpm if the design point is 250 gpm at 60 ft. What are the respective heads?",
+    "options": [
+      "2.4, 9.6, 21.6, and 38.4 feet",
+      "4.5, 14.0, 27.0, and 42.0 feet",
+      "11.3, 20.5, 39.0, and 53.0 feet",
+      "The heads cannot be calculated"
+    ],
+    "answer": "A",
+    "explanation": "** In a closed hydronic loop, system head varies as the square of the flow rate: $Head = C \\times GPM^2$.\n- $C = \\frac{60}{250^2} = 0.00096$.\n- At 100 gpm: $0.00096 \\times 100^2 = 9.6$ ft? No!\n- At 200 gpm: $2.4 \\times 2^2 = 9.6$ ft.\n- At 300 gpm: $2.4 \\times 3^2 = 21.6$ ft.\n- At 400 gpm: $2.4 \\times 4^2 = 38.4$ ft.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 970
+  },
+  {
+    "text": "Using the pump performance curves, if a system requires 250 gpm at 60 ft of head, what is the exact impeller size required for this pump?",
+    "options": [
+      "9.75 inch (250 mm)",
+      "8.375 inch (215 mm)",
+      "7.375 inch (200 mm)",
+      "A different pump must be used"
+    ],
+    "answer": "A",
+    "explanation": "** Looking at the H-Q pump curves, the intersection of 250 GPM and 60 feet of head falls exactly on the curve for the 9.75\" diameter impeller.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 971
+  },
+  {
+    "text": "If only one of the two identical parallel pumps (each rated at 250 gpm @ 60 ft) is operating in the system, what is the approximate system operating point?",
+    "options": [
+      "250 gpm @ 60 ft",
+      "337 gpm @ 55 ft",
+      "450 gpm @ 50 ft",
+      "500 gpm @ 30 ft"
+    ],
+    "answer": "B",
+    "explanation": "** Running a single pump shifts the operating point to the intersection of that pump's single H-Q curve and the system curve. A single pump will deliver more than half the parallel design flow (~337 GPM) at a slightly lower head (~55 ft).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 972
+  },
+  {
+    "text": "What is the standard motor horsepower required for each of the parallel pumps to prevent overloading at the design point?",
+    "options": [
+      "5 HP",
+      "7.5 HP",
+      "10 HP",
+      "15 HP"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 973
+  },
+  {
+    "text": "A system control valve has a Cv of 250. What is the pressure drop across the valve at the full system flow rate of 500 gpm?",
+    "options": [
+      "4 psi",
+      "2 psi",
+      "0 psi",
+      "Cannot be calculated"
+    ],
+    "answer": "A",
+    "explanation": "** Pressure drop in psi is calculated as: $\\Delta P = (GPM / C_v)^2$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 974
+  },
+  {
+    "text": "A cooling coil has an airflow of 120,000 cfm. The supply chilled water temperature is 44 F. If the air temperature drop across the coil is 20 F, and the chilled water flow is 500 gpm, what is the return water temperature?",
+    "options": [
+      "65.2 F",
+      "64.0 F",
+      "54.4 F",
+      "None of the above"
+    ],
+    "answer": "C",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 975
+  },
+  {
+    "text": "If an antifreeze mixture with a specific heat of 0.8 is used instead of pure water in Question 47, what will the return fluid temperature be?",
+    "options": [
+      "52.0 F",
+      "57.0 F",
+      "65.2 F",
+      "None of the above"
+    ],
+    "answer": "B",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 976
+  },
+  {
+    "text": "A three-way control valve in a bypass chilled water configuration is piped to divert flow away from the coil. This valve is classified as:",
+    "options": [
+      "Diverting Valve",
+      "Mixing Valve",
+      "True",
+      "False"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 977
+  },
+  {
+    "text": "A fluid with a specific heat of 0.434 Btu/lb-F and a density of 60.5 lb/cu ft is pumped through a heat exchanger that transfers 100,000 Btuh while lowering the fluid temperature by 20 F. What is the required flow rate in gpm?",
+    "options": [
+      "20.0 gpm",
+      "23.7 gpm",
+      "3.17 gpm",
+      "Cannot be calculated"
+    ],
+    "answer": "B",
+    "explanation": "**",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 978
+  },
+  {
+    "text": "A condenser water loop circulates 1,000 gpm through 500 equivalent feet of 8-inch steel pipe (friction rate = 1.5 ft/100 ft). The tower nozzles require 5 psi (11.5 ft), the chiller condenser pressure drop is 13 ft, and the static lift is 10 ft. What is the minimum head requirement for the pump?",
+    "options": [
+      "35.5 ft",
+      "42.0 ft",
+      "49.6 ft",
+      "None of the above"
+    ],
+    "answer": "B",
+    "explanation": "**\n- Piping friction loss $= 500 \\text{ ft} \\times \\frac{1.5 \\text{ ft}}{100 \\text{ ft}} = 7.5$ ft.\n- Nozzle pressure drop $= 5 \\text{ psi} \\times 2.31 \\text{ ft/psi} = 11.55$ ft.\n- Chiller pressure drop $= 13.0$ ft.\n- Static lift $= 10.0$ ft.\n- Total pump head $= 7.5 + 11.55 + 13.0 + 10.0 = 42.05 \\approx 42.0$ ft.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 979
+  },
+  {
+    "text": "When checking out or balancing a pump, the pump inlet (suction) isolation valve must:",
+    "options": [
+      "Not be used for throttling",
+      "Be closed slowly to control flow",
+      "Be an automatic modulating valve",
+      "Be a square-head balancing cock"
+    ],
+    "answer": "A",
+    "explanation": "** The suction isolation valve must always be 100% wide open during operation. Throttling the suction side of a pump creates a localized vacuum, leading to pump cavitation, loss of prime, and impeller damage.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 980
+  },
+  {
+    "text": "Preliminary system checks and inspections can be bypassed or eliminated if the TAB agency is also the mechanical installing contractor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "B",
+    "explanation": "** NEBB procedural standards require a complete, documented set of preliminary checks and reports for every certified project, regardless of the relationship between the TAB firm and the installer.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 981
+  },
+  {
+    "text": "What is the required accuracy of calibrated test gauges used in NEBB hydronic measurements, relative to their dial range?",
+    "options": [
+      "Within 1/2 of 1%",
+      "Within 1%",
+      "Within 2%",
+      "Within 5%"
+    ],
+    "answer": "A",
+    "explanation": "** Calibrated test dial gauges used for differential pressure measurements must have a certified accuracy of within \\pm 0.5\\% (1/2 of 1%) of the dial scale range.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 982
+  },
+  {
+    "text": "In a direct expansion (DX) refrigeration circuit, the thermostatic expansion valve (TXV) is located in which line?",
+    "options": [
+      "Liquid line",
+      "Hot gas line",
+      "Suction line",
+      "Condenser water line"
+    ],
+    "answer": "A",
+    "explanation": "** The TXV is installed in the high-pressure liquid line immediately before the entrance to the evaporator coil, regulating the liquid refrigerant injection based on suction superheat.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 983
+  },
+  {
+    "text": "How is the balancing of steam heating distribution systems primarily accomplished?",
+    "options": [
+      "Through pipe sizing during the design stage",
+      "By adjusting local radiator control valves",
+      "By adjusting steam pressure reducing valves",
+      "By increasing the boiler steam pressure"
+    ],
+    "answer": "A",
+    "explanation": "** Unlike hydronic loops, steam systems are self-balancing (steam naturally travels to zones of lower pressure where it condenses). Flow balance is pre-determined by correct pipe sizing and orifice selection during design.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 984
+  },
+  {
+    "text": "A pipe run has a 10 foot pressure drop at a water flow rate of 4 gpm. If the flow rate is increased to 8 gpm, what will the new pressure drop be?",
+    "options": [
+      "5 feet",
+      "10 feet",
+      "20 feet",
+      "40 feet"
+    ],
+    "answer": "D",
+    "explanation": "** Pressure drop varies with the square of the flow rate: $HD_2 = HD_1 \\times (GPM_2 / GPM_1)^2 = 10 \\times (8 / 4)^2 = 10 \\times 4 = 40$ feet.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Examination No. 2",
+    "id": 985
+  },
+  {
+    "text": "According to the First Law of Thermodynamics, which statement is correct regarding energy in a closed system?",
+    "options": [
+      "Energy is consumed and destroyed as friction heat increases.",
+      "Energy can neither be created nor destroyed, only transformed from one state to another.",
+      "Thermal energy can spontaneously flow from cold to hot bodies.",
+      "Total system entropy must always decrease during energy transfer."
+    ],
+    "answer": "B",
+    "explanation": "** The First Law of Thermodynamics is the Law of Conservation of Energy, which states that energy cannot be created or destroyed, only converted.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 986
+  },
+  {
+    "text": "What does the Second Law of Thermodynamics dictate regarding heat flow?",
+    "options": [
+      "Heat can flow from a colder body to a hotter body without external work.",
+      "The efficiency of any energy transfer process is always 100%.",
+      "Heat flow always occurs naturally from a body of higher temperature to one of lower temperature.",
+      "Fluid pressure and velocity pressure are equal in all directions."
+    ],
+    "answer": "C",
+    "explanation": "** The Second Law states that heat always flows from a high-temperature region to a low-temperature region, and external work is required to reverse this path (as in a refrigeration cycle).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 987
+  },
+  {
+    "text": "What is the fundamental cause of pump cavitation?",
+    "options": [
+      "Air bubbles trapped in the expansion tank.",
+      "Suction static pressure dropping below the vapor pressure of the liquid, causing vapor bubbles to form and collapse.",
+      "High system static head on the discharge side.",
+      "Running the pump in reverse rotation."
+    ],
+    "answer": "B",
+    "explanation": "** If pressure at the pump inlet drops below the vapor pressure of the fluid, the liquid boils locally, forming vapor pockets. When these pockets enter high-pressure areas, they collapse violently (cavitation).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 988
+  },
+  {
+    "text": "How much latent heat is removed from a cooling tower system for every pound of water that is evaporated?",
+    "options": [
+      "144 Btu",
+      "180 Btu",
+      "970 Btu",
+      "1,041 Btu"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 989
+  },
+  {
+    "text": "What is the sensible heat change associated with heating one pound of liquid water from 32 F (0 C) to 212 F (100 C)?",
+    "options": [
+      "144 Btu",
+      "180 Btu",
+      "970 Btu",
+      "1,150 Btu"
+    ],
+    "answer": "B",
+    "explanation": "** The specific heat of water is 1.0 Btu/lb-F. The temperature difference is $212 - 32 = 180$ F. Heat required $= 1 \\text{ lb} \\times 1.0 \\text{ Btu/lb-F} \\times 180 \\text{ F} = 180$ Btu.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 990
+  },
+  {
+    "text": "In modern HVAC system design, what indoor temperature is commonly used as the summer design comfort point to balance occupant satisfaction and energy conservation?",
+    "options": [
+      "68 F (20 C)",
+      "72 F (22 C)",
+      "75 F (24 C)",
+      "78 F (25 C)"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 991
+  },
+  {
+    "text": "In HVAC air distribution systems, what is the primary cause of \"System Effect\"?",
+    "options": [
+      "Using a VFD to control the supply fan speed.",
+      "Poor duct inlet or outlet configurations near the fan, preventing the development of a uniform velocity profile.",
+      "Installing a high-efficiency HEPA filter in the air handler.",
+      "Operating the fan at sea-level density."
+    ],
+    "answer": "B",
+    "explanation": "** System Effect is a loss in fan performance (lower flow and static pressure) caused by turbulent, non-uniform airflow at the fan inlet or outlet connections, which deviates from catalog test setups.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 992
+  },
+  {
+    "text": "What aerodynamic condition causes a centrifugal fan to experience \"surge\" or stall?",
+    "options": [
+      "Running the fan at excessive speed above its maximum class limit.",
+      "Operating the fan at a flow rate below its minimum limit against high system resistance, causing flow reversal on the blades.",
+      "Opening all outdoor air dampers fully during free-cooling mode.",
+      "A mismatch in motor pulley alignment."
+    ],
+    "answer": "B",
+    "explanation": "** Fan surge occurs when a fan operates in its unstable region (typically left of the peak pressure point). High resistance forces the fan to stall, leading to cyclic flow reversal, noise, and vibration.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 993
+  },
+  {
+    "text": "In hydronic pump installations, when is packing gland seals preferred over mechanical shaft seals?",
+    "options": [
+      "In closed loops carrying clean, high-temperature water.",
+      "In open systems where abrasive particulates are present that would score mechanical seal faces.",
+      "In low-pressure circulators using sleeve bearings.",
+      "To completely eliminate water leakage at the pump shaft."
+    ],
+    "answer": "B",
+    "explanation": "** Packing seals allow a controlled amount of leakage to lubricate the shaft, and are highly resilient to suspended solids and grit that would destroy precision mechanical seal faces.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 994
+  },
+  {
+    "text": "What is the functional purpose of installing \"wear rings\" in a centrifugal pump?",
+    "options": [
+      "To reduce axial shaft thrust loads on the bearings.",
+      "To seal the pump casing against high static pressures.",
+      "To provide an easily replaceable sacrificial surface that maintains close running clearances between the impeller and casing.",
+      "To increase the pump shutoff head."
+    ],
+    "answer": "C",
+    "explanation": "** Wear rings provide a close-tolerance seal between the high-pressure volute and the low-pressure suction eye. They wear down over time and are replaced to restore pump efficiency without replacing the impeller or casing.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 995
+  },
+  {
+    "text": "What is the function of a \"memory stop\" on a hydronic balancing valve?",
+    "options": [
+      "To prevent the valve from being closed during system shutdowns.",
+      "A mechanical locking device that allows the valve to be shut off for maintenance and reopened to its exact pre-balanced setpoint.",
+      "To record the water flow rate electronically in the DDC memory.",
+      "To limit the valve actuator to linear control characteristics."
+    ],
+    "answer": "B",
+    "explanation": "** A memory stop is a physical collar or bolt that limits the valve stem travel. It allows isolation for service and guarantees the valve returns to its balanced position when reopened.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 996
+  },
+  {
+    "text": "Which port configuration is characteristic of a standard three-way water mixing valve?",
+    "options": [
+      "One inlet and two outlets",
+      "Two inlets and one outlet",
+      "Two inlets and two outlets",
+      "One inlet and one outlet"
+    ],
+    "answer": "B",
+    "explanation": "** Mixing valves combine water flows from two different sources (e.g. coil return and bypass) into one common discharge pipe. Thus, they have two inlets and one outlet.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 997
+  },
+  {
+    "text": "What characteristic sound indicates that a hydronic pump is undergoing severe impeller cavitation?",
+    "options": [
+      "A high-pitched electrical hum.",
+      "A soft, continuous rushing water sound.",
+      "A loud, rattling noise that sounds like pumping gravel or marbles.",
+      "Cyclic whistling or squealing."
+    ],
+    "answer": "C",
+    "explanation": "** The implosion of vapor bubbles against the pump impeller blades generates intense local shockwaves, which sound like gravel, rocks, or marbles passing through the pump casing.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 998
+  },
+  {
+    "text": "To prevent pump cavitation, what relationship must be maintained between Net Positive Suction Head Available (NPSHA) and Net Positive Suction Head Required (NPSHR)?",
+    "options": [
+      "NPSHA must be less than NPSHR.",
+      "NPSHA must be equal to NPSHR.",
+      "NPSHA must exceed NPSHR by a safe operating margin.",
+      "NPSHA must be zero."
+    ],
+    "answer": "C",
+    "explanation": "** To ensure water remains in liquid form at the impeller inlet, the suction head pressure available (NPSHA) must be greater than the manufacturer's required pressure (NPSHR) to prevent vapor formation.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 999
+  },
+  {
+    "text": "A 4-pole three-phase induction motor operates at a utility frequency of 60 Hz. What is the synchronous speed of this motor?",
+    "options": [
+      "3,600 rpm",
+      "1,800 rpm",
+      "1,200 rpm",
+      "900 rpm"
+    ],
+    "answer": "B",
+    "explanation": "** Synchronous speed is calculated as: $RPM = \\frac{120 \\times F}{P}$.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1000
+  },
+  {
+    "text": "What is the correct formula to calculate the power input in kilowatts (kW) for a balanced three-phase AC electrical circuit?",
+    "options": [
+      "$kW = \\frac{V \\times I \\times PF}{1000}$",
+      "$kW = \\frac{V \\times I \\times 1.732}{1000}$",
+      "$kW = \\frac{V \\times I \\times PF \\times 1.732}{1000}$",
+      "$kW = V \\times I \\times 1.732 \\times 1000$"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1001
+  },
+  {
+    "text": "Which of the following describes an \"embedded motor\" under NEBB standards?",
+    "options": [
+      "A motor submersed in water inside a chilled water pump.",
+      "Any motor that is inaccessible without disassembling the equipment it is mounted in.",
+      "A motor mounted on a concrete inertia base.",
+      "A VFD motor controlled by a remote DDC panel."
+    ],
+    "answer": "B",
+    "explanation": "** NEBB defines an embedded motor as one that cannot be reached or serviced without dismantling housing components (e.g. cassette ductless units, fan-powered VAV boxes, direct-drive ceiling exhaust fans).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1002
+  },
+  {
+    "text": "What is the standard pressure signal operating range for pneumatic HVAC control systems?",
+    "options": [
+      "0 to 15 psi",
+      "1 to 14 psi",
+      "3 to 15 psi",
+      "4 to 20 psi"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1003
+  },
+  {
+    "text": "What are the typical standard signal ranges used for Analog Output (AO) control devices in DDC systems?",
+    "options": [
+      "0 to 10 VDC or 4 to 20 mA",
+      "24 to 120 VAC",
+      "0 to 13 psi pneumatic",
+      "10 to +10 mVDC"
+    ],
+    "answer": "A",
+    "explanation": "** DDC controllers modulate actuators using standard analog electric signals, which are typically 0 to 10 volts DC (VDC) or 4 to 20 milliamperes (mA).",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1004
+  },
+  {
+    "text": "In DDC commissioning, what is the primary purpose of \"Point-to-Point Verification\"?",
+    "options": [
+      "To check the fan belt tension between two pulleys.",
+      "To calculate the pressure drop between two hydronic PT plugs.",
+      "To confirm that a physical sensor or actuator is connected to the correct terminal point on the correct controller and reads correctly.",
+      "To calibrate the flow measuring hood at two different flow rates."
+    ],
+    "answer": "C",
+    "explanation": "** Point-to-point verification is a quality control check confirming that wiring and addressing matches the control drawings, ensuring sensor \"A\" reads at controller input \"A\".",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1005
+  },
+  {
+    "text": "A High Efficiency Particulate Air (HEPA) filter is defined as having a minimum particle collection efficiency of:",
+    "options": [
+      "95.0% for 0.5 micron particles",
+      "99.97% for 0.3 micron particles",
+      "99.99% for 0.1 micron particles",
+      "100% for all visible dust"
+    ],
+    "answer": "B",
+    "explanation": "** By definition, a standard HEPA filter must capture at least 99.97% of all airborne particles that are 0.3 microns in diameter or larger.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1006
+  },
+  {
+    "text": "What is the primary physical difference between \"Sound Power Level\" (Lw) and \"Sound Pressure Level\" (Lp) in acoustics?",
+    "options": [
+      "Sound power level varies with distance, while sound pressure level is constant.",
+      "Sound power level is the total acoustic energy emitted by a source (independent of environment), while sound pressure level is the localized pressure fluctuation measured at a distance (dependent on environment).",
+      "Sound pressure level is measured in decibels, while sound power level is measured in watts.",
+      "There is no difference; they are synonymous terms."
+    ],
+    "answer": "B",
+    "explanation": "** Sound Power Level (Lw) is the rate at which acoustic energy is radiated from a source. Sound Pressure Level (Lp) is the actual pressure fluctuation felt at a receiver's ear or microphone, which decreases with distance and varies with room absorption.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1007
+  },
+  {
+    "text": "Under the NEBB Quality Assurance Program (QAP) and procedural standards, who is contractually and professionally responsible for applying the physical NEBB seal and signature to the final certified report?",
+    "options": [
+      "The Mechanical Contractor's project manager.",
+      "The NEBB local chapter secretary.",
+      "The designated NEBB Certified Professional (CP) who supervised the work.",
+      "The lead balancing technician who performed the measurements."
+    ],
+    "answer": "C",
+    "explanation": "** Applying the NEBB certification seal and signing the report is a direct, personal professional responsibility of the Certified Professional (CP) overseeing the project.",
+    "lang": "en",
+    "source": "tab_cp_new_folder_prep_set9.md",
+    "topic": "Study Course Lesson Questions",
+    "id": 1008
   }
 ];
